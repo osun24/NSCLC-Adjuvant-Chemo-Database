@@ -1,0 +1,1341 @@
+"Adjuvant Chemo","Age","OS_STATUS","Stage","Histology","Race","Smoked?","IS_MALE","OS_MONTHS","PFS_MONTHS","RFS_MONTHS"
+"ACT",67,0,"II","Squamous Cell Carcinoma","Caucasian","Yes","1",28.616016432,28.616016432,NA
+"ACT",67,0,"IB","Adenocarcinoma","Caucasian","Yes","1",27.170431212,27.170431212,NA
+"ACT",65,1,"III","Squamous Cell Carcinoma","Caucasian","Yes","1",16.854209448,4.533880908,NA
+"ACT",51,0,"II","Adenocarcinoma","Caucasian","Yes","0",33.839835732,33.839835732,NA
+"ACT",72,0,"II","Adenocarcinoma","Caucasian","Yes","1",34.759753596,34.759753596,NA
+"ACT",65,0,"IB","Adenocarcinoma","Caucasian","Yes","1",25.560574944,25.560574944,NA
+"ACT",58,0,"IB","Adenocarcinoma","Caucasian","Yes","1",32.657084184,32.657084184,NA
+"ACT",53,0,"II","Squamous Cell Carcinoma","Caucasian","Yes","1",34.792607808,34.792607808,NA
+"ACT",70,1,"III","Adenocarcinoma","Caucasian","Yes","0",12.12320328,9.429158112,NA
+"ACT",76,0,"IB","Squamous Cell Carcinoma","Caucasian","Yes","1",38.373716628,38.373716628,NA
+"ACT",73,1,"IB","Squamous Cell Carcinoma","Caucasian","Yes","1",36.238193016,12.550308012,NA
+"ACT",63,0,"II","Adenocarcinoma","Caucasian","Yes","0",31.08008214,9.002053392,NA
+"ACT",32,1,"II","Adenocarcinoma","Caucasian","No","0",42.38193018,31.605749484,NA
+"ACT",54,1,"IB","Squamous Cell Carcinoma","African American","Yes","0",15.572895276,9.79055442,NA
+"ACT",74,0,"IB","Adenocarcinoma","Caucasian","No","0",39.096509244,39.096509244,NA
+"ACT",59,0,"IB","Adenocarcinoma","Caucasian","Yes","0",35.383983576,35.383983576,NA
+"ACT",76,1,"IB","Adenocarcinoma","Caucasian","Yes","0",40.213552356,40.213552356,NA
+"ACT",63,0,"IB","Squamous Cell Carcinoma","Caucasian","Yes","0",35.646817248,35.646817248,NA
+"ACT",60,0,"III","Squamous Cell Carcinoma","Caucasian","Yes","1",31.901437368,31.901437368,NA
+"ACT",60,0,"IB","Adenocarcinoma","Caucasian","Yes","0",26.349075972,26.349075972,NA
+"ACT",75,0,"IB","Adenocarcinoma","Caucasian","Yes","1",49.741273104,44.68172484,NA
+"ACT",49,0,"III","Adenocarcinoma","Caucasian","Yes","1",40.7063655,40.7063655,NA
+"ACT",65,0,"III","Adenocarcinoma","Caucasian","Yes","1",40.607802876,40.607802876,NA
+"ACT",49,1,"III","Squamous Cell Carcinoma","Caucasian","Yes","1",6.275154,4.99383984,NA
+"ACT",62,1,"II","Adenocarcinoma","Caucasian","Yes","0",32.952772068,7.162217664,NA
+"ACT",60,0,"IB","Squamous Cell Carcinoma","Caucasian","Yes","1",49.905544152,45.07597536,NA
+"ACT",55,1,"III","Squamous Cell Carcinoma","Caucasian","Yes","0",20.829568788,13.010266944,NA
+"ACT",65,1,"II","Squamous Cell Carcinoma","Caucasian","Yes","1",16.591375776,7.885010268,NA
+"ACT",72,0,"III","Adenocarcinoma","Caucasian","Yes","1",50.1026694,50.1026694,NA
+"ACT",75,1,"III","Squamous Cell Carcinoma","Caucasian","Yes","1",15.86858316,8.77207392,NA
+"ACT",67,0,"IA","Squamous Cell Carcinoma","Caucasian","Yes","0",21.420944556,21.420944556,NA
+"ACT",61,0,"III","Adenocarcinoma","Caucasian","Yes","1",24.246406572,24.246406572,NA
+"ACT",75,0,"IB","Adenocarcinoma","Caucasian","Yes","1",32.427104724,31.408624224,NA
+"ACT",50,1,"III","Squamous Cell Carcinoma","Caucasian","Yes","1",16.88706366,22.34086242,NA
+"OBS",70,0,"III","Adenocarcinoma","Caucasian","Yes","1",5.585215608,5.585215608,NA
+"OBS",69,0,"IB","Adenocarcinoma","Caucasian","Yes","1",7.786447644,7.425051336,NA
+"OBS",70,0,"IB","Adenocarcinoma","Caucasian","Yes","1",11.367556464,10.283367552,NA
+"OBS",65,0,"II","Squamous Cell Carcinoma","Caucasian","Yes","1",29.63449692,29.63449692,NA
+"OBS",67,0,"III","Squamous Cell Carcinoma","Caucasian","Yes","0",26.447638608,26.447638608,NA
+"OBS",71,0,"IB","Adenocarcinoma","Caucasian","Yes","0",35.67967146,35.67967146,NA
+"OBS",64,0,"IA","Adenocarcinoma","Caucasian","Yes","1",46.422997944,46.422997944,NA
+"OBS",50,1,"III","Adenocarcinoma","Caucasian","Yes","1",26.0862423,15.704312112,NA
+"OBS",63,0,"II","Squamous Cell Carcinoma","Caucasian","Yes","0",42.97330596,36.172484604,NA
+"OBS",57,1,"IB","Adenocarcinoma","Caucasian","Yes","1",25.954825464,12.386036964,NA
+"OBS",54,0,"III","Adenocarcinoma","Caucasian","Yes","1",58.02053388,50.562628332,NA
+"OBS",72,0,"IB","Squamous Cell Carcinoma","Caucasian","Yes","1",56.607802872,56.607802872,NA
+"OBS",69,0,"IB","Squamous Cell Carcinoma","Caucasian","Yes","1",57.330595488,57.330595488,NA
+"OBS",53,0,"II","Squamous Cell Carcinoma","Caucasian","Yes","1",63.342915816,63.342915816,NA
+"OBS",68,1,"II","Adenocarcinoma","Caucasian","Yes","1",28.878850104,18.069815196,NA
+"OBS",67,0,"II","Squamous Cell Carcinoma","Caucasian","Yes","1",64.229979468,64.229979468,NA
+"OBS",65,1,"III","Squamous Cell Carcinoma","Caucasian","Yes","1",33.347022588,7.227926076,NA
+"OBS",59,0,"II","Squamous Cell Carcinoma","Caucasian","Yes","0",82.4312115,82.4312115,NA
+"OBS",68,1,"III","Squamous Cell Carcinoma","African American","Yes","1",2.891170428,2.891170428,NA
+"OBS",69,1,"IB","Adenocarcinoma","Caucasian","Yes","1",43.071868584,43.071868584,NA
+"OBS",69,0,"IA","Adenocarcinoma","Caucasian","Yes","1",69.71663244,37.683778236,NA
+"OBS",66,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",112.29,NA,86.63
+"OBS",66,0,"IA","Adenocarcinoma","Unknown","Unknown","0",104.66,NA,105.88
+"OBS",77,1,"IA","Adenocarcinoma","Unknown","Unknown","1",5.32,NA,5.06
+"ACT",40,1,"IB","Adenocarcinoma","Unknown","Unknown","0",18.27,NA,15.44
+"OBS",68,1,"III","Adenocarcinoma","Unknown","Unknown","1",9.99,NA,2.99
+"OBS",65,1,"IB","Adenocarcinoma","Unknown","Unknown","0",19.38,NA,7.29
+"OBS",76,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",16.39,NA,9.17
+"OBS",78,1,"IB","Adenocarcinoma","Unknown","Unknown","1",2,NA,NA
+"OBS",65,1,"IB","Large Cell Carcinoma","Unknown","Unknown","1",8.31,NA,8.05
+"OBS",74,1,"IB","Adenocarcinoma","Unknown","Unknown","0",19.55,NA,NA
+"ACT",64,1,"IB","Large Cell Carcinoma","Unknown","Unknown","0",5.09,NA,3.12
+"OBS",70,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",19.51,NA,16.26
+"ACT",70,1,"IB","Adenocarcinoma","Unknown","Unknown","1",16.1,NA,14.36
+"OBS",55,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",3.58,NA,2.76
+"OBS",72,1,"IB","Adenocarcinoma","Unknown","Unknown","0",2.76,NA,2.73
+"ACT",64,1,"IB","Large Cell Carcinoma","Unknown","Unknown","1",9.86,NA,8.74
+"ACT",70,1,"IB","Adenocarcinoma","Unknown","Unknown","1",11.66,NA,11.79
+"OBS",54,1,"III","Adenocarcinoma","Unknown","Unknown","0",9.4,NA,7.85
+"OBS",71,1,"II","Adenocarcinoma","Unknown","Unknown","1",4.96,NA,1.77
+"OBS",70,1,"IB","Adenocarcinoma","Unknown","Unknown","0",69.25,NA,36.76
+"OBS",61,1,"IB","Large Cell Carcinoma","Unknown","Unknown","1",9.23,NA,8.05
+"OBS",75,1,"III","Adenocarcinoma","Unknown","Unknown","0",113.99,NA,111.14
+"OBS",69,1,"IB","Adenocarcinoma","Unknown","Unknown","1",132.39,NA,132.75
+"OBS",62,1,"IA","Adenocarcinoma","Unknown","Unknown","0",107.1,NA,83.15
+"ACT",60,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",15.18,NA,13.17
+"ACT",44,0,"III","Large Cell Carcinoma","Unknown","Unknown","1",145.83,NA,63.8
+"ACT",66,1,"II","Adenocarcinoma","Unknown","Unknown","1",16.89,NA,16.52
+"OBS",56,0,"IA","Adenocarcinoma","Unknown","Unknown","1",187.65,NA,97.04
+"OBS",76,1,"IB","Adenocarcinoma","Unknown","Unknown","0",9.23,NA,8.11
+"OBS",70,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",63.67,NA,NA
+"OBS",56,0,"IB","Large Cell Carcinoma","Unknown","Unknown","1",140.6,NA,145.3
+"ACT",66,1,"IB","Large Cell Carcinoma","Unknown","Unknown","1",9.13,NA,4.57
+"OBS",66,1,"IB","Adenocarcinoma","Unknown","Unknown","1",11.27,NA,3.81
+"OBS",52,1,"IA","Adenocarcinoma","Unknown","Unknown","0",105.81,NA,84.72
+"OBS",61,0,"IB","Large Cell Carcinoma","Unknown","Unknown","1",130.52,NA,138.21
+"OBS",51,1,"IB","Adenocarcinoma","Unknown","Unknown","0",19.42,NA,6.24
+"OBS",71,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",14.09,NA,7.95
+"ACT",62,1,"II","Adenocarcinoma","Unknown","Unknown","1",122.17,NA,95.43
+"ACT",64,0,"II","Adenocarcinoma","Unknown","Unknown","0",126.28,NA,68.53
+"OBS",82,1,"IB","Adenocarcinoma","Unknown","Unknown","0",109.43,NA,56.08
+"ACT",55,0,"IB","Adenocarcinoma","Unknown","Unknown","0",122.31,NA,31.73
+"OBS",68,1,"IB","Large Cell Carcinoma","Unknown","Unknown","1",98.55,NA,100
+"OBS",71,0,"IB","Adenocarcinoma","Unknown","Unknown","0",118.96,NA,56.77
+"OBS",80,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",3.22,NA,1.22
+"OBS",75,0,"IA","Adenocarcinoma","Unknown","Unknown","0",110.68,NA,56.7
+"OBS",69,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",75.56,NA,42.87
+"OBS",74,1,"III","Adenocarcinoma","Unknown","Unknown","0",93.43,NA,94.71
+"OBS",58,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","0",14.59,NA,11.04
+"OBS",59,1,"III","Adenocarcinoma","Unknown","Unknown","1",0.2,NA,0.2
+"OBS",59,1,"IB","Adenocarcinoma","Unknown","Unknown","1",6.44,NA,4.37
+"OBS",75,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",4.04,NA,3.38
+"OBS",75,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",89.98,NA,89.88
+"OBS",62,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",162.45,NA,139.82
+"ACT",60,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",10.97,NA,10.68
+"ACT",70,1,"II","Adenocarcinoma","Unknown","Unknown","1",129.73,NA,78.19
+"ACT",59,0,"IA","Adenocarcinoma","Unknown","Unknown","1",154.5,NA,163.53
+"OBS",41,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","0",9.23,NA,2.33
+"OBS",69,0,"II","Large Cell Carcinoma","Unknown","Unknown","0",151.84,NA,161.43
+"ACT",62,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",57.85,NA,55.52
+"OBS",66,1,"IA","Adenocarcinoma","Unknown","Unknown","1",90.28,NA,90.34
+"ACT",60,1,"III","Adenocarcinoma","Unknown","Unknown","0",10.61,NA,10.05
+"OBS",61,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",148.16,NA,141.72
+"OBS",61,0,"IB","Adenocarcinoma","Unknown","Unknown","1",147.47,NA,123.52
+"OBS",55,0,"IA","Adenocarcinoma","Unknown","Unknown","0",147.37,NA,68.46
+"ACT",65,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",105.19,NA,102.83
+"ACT",59,1,"III","Adenocarcinoma","Unknown","Unknown","0",13.01,NA,6.08
+"OBS",67,1,"IB","Adenocarcinoma","Unknown","Unknown","1",8.61,NA,5.88
+"OBS",69,1,"IB","Large Cell Carcinoma","Unknown","Unknown","1",2.5,NA,1.77
+"OBS",64,1,"II","Adenocarcinoma","Unknown","Unknown","0",17.51,NA,4.53
+"OBS",65,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",2.92,NA,2.1
+"ACT",73,1,"IA","Large Cell Carcinoma","Unknown","Unknown","1",96.58,NA,93.66
+"ACT",49,1,"II","Adenocarcinoma","Unknown","Unknown","0",61.56,NA,8.38
+"OBS",51,1,"II","Adenocarcinoma","Unknown","Unknown","0",5.81,NA,0.23
+"ACT",74,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",18.27,NA,18.53
+"OBS",61,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",15.34,NA,12.88
+"ACT",58,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",108.48,NA,109.99
+"ACT",68,1,"III","Adenocarcinoma","Unknown","Unknown","0",78.75,NA,74.47
+"OBS",70,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",174.47,NA,176.91
+"OBS",66,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",74.08,NA,74.74
+"OBS",51,1,"IB","Adenocarcinoma","Unknown","Unknown","0",67.94,NA,20.43
+"ACT",47,1,"II","Adenocarcinoma","Unknown","Unknown","0",116.46,NA,104.11
+"ACT",48,0,"IA","Large Cell Carcinoma","Unknown","Unknown","0",167.48,NA,72.54
+"OBS",66,0,"IB","Adenocarcinoma","Unknown","Unknown","0",106.01,NA,68.53
+"OBS",56,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",4.7,NA,NA
+"OBS",67,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",102.69,NA,78.98
+"OBS",76,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",20.53,NA,13.37
+"OBS",75,1,"IB","Adenocarcinoma","Unknown","Unknown","0",10.48,NA,5.32
+"ACT",70,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",21.71,NA,12.29
+"OBS",67,0,"IB","Adenocarcinoma","Unknown","Unknown","0",156.37,NA,165.97
+"OBS",62,0,"IA","Adenocarcinoma","Unknown","Unknown","0",133.64,NA,77.83
+"OBS",67,0,"IA","Adenocarcinoma","Unknown","Unknown","0",126.35,NA,133.77
+"OBS",49,0,"IA","Adenocarcinoma","Unknown","Unknown","0",166.33,NA,165.74
+"OBS",66,0,"II","Adenocarcinoma","Unknown","Unknown","1",160.87,NA,28.55
+"OBS",70,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",5.95,NA,3.88
+"OBS",54,0,"IB","Adenocarcinoma","Unknown","Unknown","1",171.06,NA,178.15
+"OBS",67,1,"IB","Adenocarcinoma","Unknown","Unknown","1",92.31,NA,17.44
+"OBS",77,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",23.59,NA,19.78
+"ACT",70,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",179.66,NA,149.38
+"OBS",71,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",21.02,NA,7.85
+"OBS",63.57,1,"IA","Adenosquamous Carcinoma","Unknown","Yes","1",49.32,NA,NA
+"OBS",68.15,0,"IA","Adenocarcinoma","Unknown","Yes","0",90.24,NA,NA
+"OBS",69.15,0,"IB","Adenocarcinoma","Unknown","Yes","1",87.84,NA,NA
+"OBS",82.36,0,"IA","Adenocarcinoma","Unknown","Yes","0",82.08,NA,NA
+"OBS",68,1,"IB","Adenocarcinoma","Unknown","Yes","1",22.92,NA,NA
+"OBS",57.31,0,"IB","Squamous Cell Carcinoma","Unknown","Yes","1",84.36,NA,NA
+"OBS",63.63,0,"II","Squamous Cell Carcinoma","Unknown","Yes","0",82.2,NA,NA
+"OBS",71.43,1,"IB","Adenocarcinoma","Unknown","Yes","1",51.96,NA,NA
+"OBS",44.21,0,"IB","Adenocarcinoma","Unknown","No","0",74.64,NA,NA
+"OBS",74.16,1,"II","Adenocarcinoma","Unknown","No","0",48.96,NA,NA
+"OBS",66.46,0,"IA","Adenocarcinoma","Unknown","Yes","1",75.72,NA,NA
+"OBS",59.01,0,"IB","Adenocarcinoma","Unknown","Yes","0",71.88,NA,NA
+"OBS",70.56,0,"IB","Adenocarcinoma","Unknown","Yes","0",63.84,NA,NA
+"OBS",72.96,0,"IA","Adenocarcinoma","Unknown","Yes","0",66.72,NA,NA
+"OBS",79.28,0,"IB","Adenocarcinoma","Unknown","Yes","1",60.24,NA,NA
+"OBS",73.26,0,"II","Squamous Cell Carcinoma","Unknown","Yes","0",41.64,NA,NA
+"OBS",52.14,0,"IA","Adenocarcinoma","Unknown","Yes","1",81.12,NA,NA
+"OBS",85.78,1,"IB","Adenocarcinoma","Unknown","Yes","1",34.08,NA,NA
+"OBS",76.93,0,"IB","Adenocarcinoma","Unknown","Yes","1",77.52,NA,NA
+"OBS",73.23,0,"IA","Adenocarcinoma","Unknown","Yes","1",69.12,NA,NA
+"OBS",77.18,0,"IA","Adenocarcinoma","Unknown","No","0",59.4,NA,NA
+"OBS",78.96,0,"II","Adenocarcinoma","Unknown","Yes","0",61.44,NA,NA
+"OBS",78.99,0,"IB","Adenocarcinoma","Unknown","Yes","1",76.68,NA,NA
+"OBS",55.39,1,"IA","Adenocarcinoma","Unknown","No","0",68.88,NA,NA
+"OBS",61.53,1,"II","Adenocarcinoma","Unknown","Yes","0",13.2,NA,NA
+"OBS",68.66,0,"II","Adenocarcinoma","Unknown","No","0",80.28,NA,NA
+"OBS",62.9,0,"II","Adenocarcinoma","Unknown","Yes","0",70.08,NA,NA
+"OBS",67.04,0,"IB","Adenocarcinoma","Unknown","Yes","1",62.16,NA,NA
+"OBS",79.71,0,"IB","Adenocarcinoma","Unknown","Yes","1",76.44,NA,NA
+"OBS",69.59,1,"II","Adenocarcinoma","Unknown","Yes","0",67.56,NA,NA
+"OBS",61.13,1,"IA","Adenocarcinoma","Unknown","No","1",22.56,NA,NA
+"OBS",73.93,1,"IB","Adenocarcinoma","Unknown","No","0",48.36,NA,NA
+"OBS",73.66,1,"IA","Squamous Cell Carcinoma","Unknown","Yes","1",62.64,NA,NA
+"OBS",55.75,1,"II","Adenocarcinoma","Unknown","Yes","1",35.16,NA,NA
+"OBS",75.68,1,"IB","Adenocarcinoma","Unknown","No","0",71.52,NA,NA
+"OBS",61.59,0,"II","Adenocarcinoma","Unknown","No","1",66.48,NA,NA
+"OBS",59.11,1,"II","Squamous Cell Carcinoma","Unknown","Yes","1",5.76,NA,NA
+"OBS",49.53,0,"II","Squamous Cell Carcinoma","Unknown","Yes","1",90,NA,NA
+"OBS",41.95,0,"IB","Adenocarcinoma","Unknown","No","0",64.92,NA,NA
+"OBS",63.1,0,"II","Squamous Cell Carcinoma","Unknown","Yes","1",73.32,NA,NA
+"OBS",77.27,0,"IB","Squamous Cell Carcinoma","Unknown","Yes","0",62.4,NA,NA
+"OBS",67.56,0,"II","Adenocarcinoma","Unknown","Yes","1",3.96,NA,NA
+"OBS",70.85,0,"II","Squamous Cell Carcinoma","Unknown","Yes","0",55.44,NA,NA
+"OBS",69.07,0,"IB","Squamous Cell Carcinoma","Unknown","Yes","0",78.96,NA,NA
+"OBS",70.52,0,"IB","Large Cell Carcinoma","Unknown","Yes","1",59.28,NA,NA
+"OBS",62.91,0,"II","Squamous Cell Carcinoma","Unknown","Yes","0",73.8,NA,NA
+"OBS",72.97,0,"II","Adenocarcinoma","Unknown","Yes","0",88.32,NA,NA
+"OBS",73.57,1,"IB","Adenocarcinoma","Unknown","Yes","1",52.44,NA,NA
+"OBS",63.41,1,"IB","Adenocarcinoma","Unknown","Yes","1",58.92,NA,NA
+"OBS",81.17,0,"IB","Squamous Cell Carcinoma","Unknown","Yes","0",59.4,NA,NA
+"OBS",72.55,1,"IB","Squamous Cell Carcinoma","Unknown","Yes","1",11.16,NA,NA
+"OBS",67.6,0,"IA","Adenocarcinoma","Unknown","Yes","1",76.44,NA,NA
+"OBS",57.41,0,"IB","Large Cell Carcinoma","Unknown","Yes","1",73.32,NA,NA
+"OBS",68.87,1,"IB","Adenocarcinoma","Unknown","Yes","0",15,NA,NA
+"OBS",79.65,1,"II","Adenocarcinoma","Unknown","Yes","1",31.32,NA,NA
+"OBS",76.91,0,"IA","Adenocarcinoma","Unknown","Yes","1",75.36,NA,NA
+"OBS",71.92,0,"IB","Large Cell Carcinoma","Unknown","Yes","0",77.16,NA,NA
+"OBS",83.65,0,"II","Adenocarcinoma","Unknown","Yes","0",78.72,NA,NA
+"OBS",49.24,1,"II","Adenocarcinoma","Unknown","Yes","1",69.48,NA,NA
+"OBS",75.89,0,"IA","Adenocarcinoma","Unknown","Yes","1",64.68,NA,NA
+"OBS",69.7,1,"IB","Squamous Cell Carcinoma","Unknown","Yes","1",29.04,NA,NA
+"OBS",65.26,1,"IB","Adenocarcinoma","Unknown","Yes","1",38.52,NA,NA
+"OBS",69.17,0,"II","Squamous Cell Carcinoma","Unknown","Yes","1",69.72,NA,NA
+"OBS",74.13,0,"IA","Squamous Cell Carcinoma","Unknown","Yes","1",90.72,NA,NA
+"OBS",78.13,1,"IB","Adenocarcinoma","Unknown","Yes","1",41.76,NA,NA
+"OBS",71.23,0,"II","Adenocarcinoma","Unknown","Yes","0",61.92,NA,NA
+"OBS",68.14,0,"IB","Adenocarcinoma","Unknown","Yes","0",72.72,NA,NA
+"OBS",54.09,1,"IB","Adenocarcinoma","Unknown","Yes","0",10.92,NA,NA
+"OBS",64.19,0,"IA","Adenocarcinoma","Unknown","No","0",35.4,NA,NA
+"OBS",63.5,1,"II","Adenocarcinoma","Unknown","Yes","1",46.2,NA,NA
+"OBS",74.91,0,"IB","Adenocarcinoma","Unknown","Yes","0",1.44,NA,NA
+"OBS",85.91,0,"IB","Adenocarcinoma","Unknown","No","0",70.08,NA,NA
+"OBS",80.61,1,"IB","Adenocarcinoma","Unknown","No","1",76.2,NA,NA
+"OBS",80.76,1,"II","Adenocarcinoma","Unknown","Yes","1",63.12,NA,NA
+"OBS",40.16,0,"IB","Adenocarcinoma","Unknown","No","0",60.36,NA,NA
+"OBS",71.47,0,"IA","Squamous Cell Carcinoma","Unknown","Yes","1",60.48,NA,NA
+"OBS",63.21,1,"II","Adenosquamous Carcinoma","Unknown","Yes","1",57.12,NA,NA
+"OBS",60.79,0,"IB","Adenocarcinoma","Unknown","Yes","1",62.04,NA,NA
+"OBS",57.09,0,"II","Adenocarcinoma","Unknown","Yes","0",49.56,NA,NA
+"OBS",60.7,0,"IA","Squamous Cell Carcinoma","Unknown","Yes","0",60.96,NA,NA
+"OBS",78.26,1,"IB","Adenocarcinoma","Unknown","No","1",38.4,NA,NA
+"OBS",50.12,1,"II","Adenocarcinoma","Unknown","Yes","1",12.36,NA,NA
+"OBS",49.86,0,"IA","Adenocarcinoma","Unknown","Yes","0",58.92,NA,NA
+"OBS",64.73,1,"IB","Adenocarcinoma","Unknown","Yes","1",11.64,NA,NA
+"OBS",80.78,1,"IB","Adenocarcinoma","Unknown","Yes","0",37.08,NA,NA
+"OBS",72.96,1,"II","Adenocarcinoma","Unknown","Yes","1",24.24,NA,NA
+"OBS",71.5,0,"IA","Large Cell Carcinoma","Unknown","Yes","1",63.84,NA,NA
+"OBS",60.85,0,"IA","Adenocarcinoma","Unknown","Yes","1",63.24,NA,NA
+"OBS",69.77,0,"IB","Adenocarcinoma","Unknown","Yes","1",69,NA,NA
+"OBS",61.98,0,"IB","Adenocarcinoma","Unknown","Yes","1",66.12,NA,NA
+"OBS",49.41,0,"IB","Adenocarcinoma","Unknown","Yes","1",65.88,NA,NA
+"OBS",78.11,0,"IA","Adenocarcinoma","Unknown","Yes","0",54.84,NA,NA
+"OBS",63.1,0,"IA","Adenocarcinoma","Unknown","Yes","0",59.16,NA,NA
+"OBS",57.68,1,"II","Adenocarcinoma","Unknown","Yes","0",10.32,NA,NA
+"OBS",62.23,1,"IB","Adenocarcinoma","Unknown","Yes","0",23.4,NA,NA
+"OBS",63.54,0,"IB","Adenocarcinoma","Unknown","No","0",93,NA,NA
+"OBS",73.23,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",32.4,NA,NA
+"OBS",87.11,1,"IB","Squamous Cell Carcinoma","Unknown","Yes","1",41.76,NA,NA
+"OBS",73.25,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",43.68,NA,NA
+"OBS",60.6,0,"IB","Adenocarcinoma","Unknown","Yes","1",52.08,NA,NA
+"OBS",57.75,0,"IA","Adenocarcinoma","Unknown","Yes","0",63.48,NA,NA
+"OBS",68.59,1,"II","Adenocarcinoma","Unknown","Yes","1",25.32,NA,NA
+"OBS",83.87,0,"II","Squamous Cell Carcinoma","Unknown","Yes","0",88.56,NA,NA
+"OBS",87.93,0,"IB","Squamous Cell Carcinoma","Unknown","Yes","1",89.28,NA,NA
+"OBS",69.43,1,"IB","Adenocarcinoma","Unknown","Yes","0",57.48,NA,NA
+"OBS",68.25,1,"II","Adenocarcinoma","Unknown","Yes","1",36.12,NA,NA
+"OBS",70.52,1,"IA","Adenocarcinoma","Unknown","Yes","1",37.68,NA,NA
+"OBS",70.73,1,"II","Adenocarcinoma","Unknown","Unknown","0",14.52,NA,NA
+"OBS",66.69,0,"IB","Adenocarcinoma","Unknown","Yes","1",65.4,NA,NA
+"OBS",67.64,0,"IA","Squamous Cell Carcinoma","Unknown","Yes","0",68.04,NA,NA
+"OBS",73.02,0,"IB","Adenocarcinoma","Unknown","Yes","0",37.32,NA,NA
+"OBS",84.19,1,"IA","Adenocarcinoma","Unknown","Unknown","1",7.8,NA,NA
+"OBS",70.96,1,"II","Adenocarcinoma","Unknown","Yes","1",21.6,NA,NA
+"OBS",74.74,0,"IA","Adenocarcinoma","Unknown","Yes","1",38.52,NA,NA
+"OBS",83.58,1,"IA","Adenocarcinoma","Unknown","Yes","0",7.2,NA,NA
+"OBS",66.38,0,"IA","Adenocarcinoma","Unknown","Yes","1",62.4,NA,NA
+"OBS",73.63,1,"IA","Adenocarcinoma","Unknown","Unknown","1",46.68,NA,NA
+"OBS",71.22,0,"IB","Adenocarcinoma","Unknown","No","0",41.16,NA,NA
+"OBS",80.54,1,"II","Adenocarcinoma","Unknown","Yes","1",17.88,NA,NA
+"OBS",80.34,1,"IB","Squamous Cell Carcinoma","Unknown","Yes","1",21.96,NA,NA
+"OBS",67.29,0,"IB","Squamous Cell Carcinoma","Unknown","Yes","0",62.16,NA,NA
+"OBS",69.07,1,"IA","Squamous Cell Carcinoma","Unknown","Yes","0",62.16,NA,NA
+"OBS",79.62,1,"IB","Adenocarcinoma","Unknown","Yes","0",35.04,NA,NA
+"OBS",72.67,0,"IB","Adenocarcinoma","Unknown","No","0",32.28,NA,NA
+"OBS",56.71,0,"IA","Adenocarcinoma","Unknown","No","0",59.88,NA,NA
+"OBS",60.29,0,"IA","Adenocarcinoma","Unknown","Unknown","0",80.04,NA,NA
+"OBS",61.86,1,"II","Squamous Cell Carcinoma","Unknown","Yes","1",67.2,NA,NA
+"OBS",70.91,0,"IA","Adenocarcinoma","Unknown","Yes","1",70.08,NA,NA
+"OBS",75.03,0,"IB","Adenocarcinoma","Unknown","Yes","1",130.56,NA,NA
+"OBS",54.73,1,"IA","Large Cell Carcinoma","Unknown","Yes","0",2.28,NA,NA
+"OBS",84.48,0,"IA","Adenocarcinoma","Unknown","No","0",6.12,NA,NA
+"OBS",76.94,1,"II","Adenocarcinoma","Unknown","Yes","1",48.48,NA,NA
+"OBS",63.8,0,"II","Squamous Cell Carcinoma","Unknown","Yes","0",56.76,NA,NA
+"OBS",73.69,0,"IB","Adenocarcinoma","Unknown","Yes","1",18.48,NA,NA
+"OBS",80.83,0,"IB","Adenocarcinoma","Unknown","Unknown","0",93.96,NA,NA
+"OBS",47.09,0,"IB","Adenocarcinoma","Unknown","Yes","1",72.24,NA,NA
+"OBS",69.03,0,"IB","Adenocarcinoma","Unknown","Yes","1",20.52,NA,NA
+"OBS",69.92,0,"II","Adenocarcinoma","Unknown","Yes","1",8.52,NA,NA
+"OBS",48.8,0,"IA","Adenocarcinoma","Unknown","No","0",60,NA,NA
+"OBS",78.58,0,"IA","Adenocarcinoma","Unknown","Yes","0",15.24,NA,NA
+"OBS",70.38,0,"IB","Adenocarcinoma","Unknown","No","0",1.8,NA,NA
+"OBS",62.68,0,"II","Adenocarcinoma","Unknown","Yes","1",16.44,NA,NA
+"OBS",62.17,1,"II","Adenocarcinoma","Unknown","Yes","1",9.6,NA,NA
+"OBS",71.35,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",11.4,NA,NA
+"OBS",70.82,0,"IB","Adenocarcinoma","Unknown","Yes","0",61.2,NA,NA
+"OBS",73.4,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",57.12,NA,NA
+"OBS",70.56,0,"II","Adenocarcinoma","Unknown","Unknown","1",1.08,NA,NA
+"OBS",69.62,1,"IB","Squamous Cell Carcinoma","Unknown","Yes","1",41.52,NA,NA
+"OBS",84.95,0,"II","Adenocarcinoma","Unknown","Yes","0",40.56,NA,NA
+"OBS",75.7,1,"IB","Adenocarcinoma","Unknown","Unknown","1",18.24,NA,NA
+"OBS",67.62,1,"IB","Adenocarcinoma","Unknown","Unknown","0",22.92,NA,NA
+"OBS",64.6,0,"IB","Squamous Cell Carcinoma","Unknown","Yes","1",136.68,NA,NA
+"OBS",55.68,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",144.48,NA,NA
+"OBS",73.55,1,"IA","Large Cell Carcinoma","Unknown","Yes","1",48.48,NA,NA
+"OBS",70.73,1,"II","Adenocarcinoma","Unknown","Yes","0",19.08,NA,NA
+"OBS",64.13,0,"IA","Adenocarcinoma","Unknown","Yes","0",88.56,NA,NA
+"OBS",71.7,1,"IB","Adenocarcinoma","Unknown","Yes","1",6.84,NA,NA
+"OBS",61.13,0,"IA","Adenocarcinoma","Unknown","Yes","1",50.04,NA,NA
+"OBS",72.76,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",29.88,NA,NA
+"OBS",63,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",16.44,NA,NA
+"OBS",54.83,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",100.08,NA,NA
+"OBS",76.71,0,"II","Adenocarcinoma","Unknown","Unknown","1",61.56,NA,NA
+"OBS",68.7,1,"II","Large Cell Carcinoma","Unknown","Yes","1",20.04,NA,NA
+"OBS",68.95,1,"IB","Adenocarcinoma","Unknown","Yes","0",6.72,NA,NA
+"OBS",68.32,0,"IB","Adenocarcinoma","Unknown","Unknown","0",32.52,NA,NA
+"OBS",85.48,1,"IB","Squamous Cell Carcinoma","Unknown","Yes","1",23.64,NA,NA
+"OBS",55.53,0,"II","Adenocarcinoma","Unknown","Unknown","0",15.12,NA,NA
+"OBS",74.09,1,"IB","Adenocarcinoma","Unknown","Yes","0",91.32,NA,NA
+"OBS",82.71,0,"II","Squamous Cell Carcinoma","Unknown","Yes","1",46.2,NA,NA
+"OBS",52.4,1,"II","Squamous Cell Carcinoma","Unknown","No","1",16.2,NA,NA
+"OBS",65.69,1,"IA","Adenocarcinoma","Unknown","Unknown","0",14.76,NA,NA
+"OBS",73.45,1,"II","Squamous Cell Carcinoma","Unknown","Yes","1",77.64,NA,NA
+"OBS",67,1,"IB","Large Cell Carcinoma","Unknown","Yes","1",12.6,NA,NA
+"OBS",61.07,1,"IB","Squamous Cell Carcinoma","Unknown","Yes","1",92.88,NA,NA
+"OBS",70.62,0,"IA","Adenocarcinoma","Unknown","Unknown","1",54.48,NA,NA
+"OBS",75.58,1,"IB","Adenocarcinoma","Unknown","Yes","1",3.72,NA,NA
+"OBS",76.07,0,"IA","Adenocarcinoma","Unknown","No","1",99.12,NA,NA
+"OBS",76.25,1,"II","Adenocarcinoma","Unknown","Yes","0",1.2,NA,NA
+"OBS",60.08,0,"IA","Adenocarcinoma","Unknown","Yes","0",49.92,NA,NA
+"OBS",73,0,"IA","Adenocarcinoma","Caucasian","Yes","0",25.2,NA,NA
+"OBS",69,0,"IA","Adenocarcinoma","Unknown","No","0",69.2,NA,NA
+"OBS",67,0,"IA","Adenocarcinoma","Caucasian","Yes","0",83,42.5,NA
+"OBS",67,0,"IA","Adenocarcinoma","Caucasian","Yes","0",69.2,30,NA
+"OBS",67,0,"IA","Adenocarcinoma","Caucasian","Yes","0",27.1,3,NA
+"ACT",59,0,"IB","Adenocarcinoma","Asian","No","0",66.6,9,NA
+"OBS",74,1,"IA","Adenocarcinoma","Caucasian","Yes","0",128.8,NA,NA
+"OBS",65,0,"IB","Adenocarcinoma","Caucasian","Yes","1",62,NA,NA
+"OBS",73,0,"IA","Adenocarcinoma","Caucasian","Yes","0",52.1,NA,NA
+"OBS",73,0,"IA","Adenocarcinoma","Caucasian","Yes","0",86.8,NA,NA
+"OBS",65,0,"IB","Adenocarcinoma","Unknown","Yes","1",103.4,102,NA
+"OBS",73,0,"IA","Adenocarcinoma","Caucasian","Yes","0",162.6,NA,NA
+"OBS",65,0,"IB","Adenocarcinoma","Caucasian","Yes","1",101.2,NA,NA
+"ACT",69,0,"II","Adenocarcinoma","Unknown","No","0",32.9,NA,NA
+"ACT",62,1,"IA","Adenocarcinoma","Unknown","No","0",54.2,27,NA
+"OBS",67,0,"IA","Adenocarcinoma","Caucasian","Yes","0",53.2,10,NA
+"OBS",38,0,"II","Adenocarcinoma","Unknown","Yes","0",24.41,NA,1.9
+"OBS",30,0,"II","Adenocarcinoma","Unknown","Yes","1",85.45,NA,86.7
+"OBS",63,0,"II","Adenocarcinoma","Unknown","No","0",77.83,NA,78.97
+"OBS",60,0,"II","Adenocarcinoma","Unknown","No","0",61.73,NA,62.63
+"OBS",58,1,"II","Adenocarcinoma","Unknown","Yes","1",9.86,NA,4.77
+"OBS",56,0,"IA","Adenocarcinoma","Unknown","No","0",60.28,NA,61.17
+"OBS",34,0,"IA","Adenocarcinoma","Unknown","Yes","0",60.05,NA,60.93
+"OBS",75,1,"II","Adenocarcinoma","Unknown","No","0",60.48,NA,45.3
+"OBS",60,1,"II","Adenocarcinoma","Unknown","Yes","1",20.99,NA,19.67
+"OBS",46,1,"IB","Adenocarcinoma","Unknown","No","0",43.07,NA,14.6
+"OBS",60,0,"IB","Adenocarcinoma","Unknown","No","0",36.07,NA,28.7
+"OBS",61,0,"IA","Adenocarcinoma","Unknown","Yes","1",39.06,NA,17.93
+"OBS",63,0,"IA","Adenocarcinoma","Unknown","Yes","1",126.91,NA,48.73
+"OBS",59,0,"II","Adenocarcinoma","Unknown","Yes","1",60.97,NA,61.87
+"OBS",64,0,"II","Adenocarcinoma","Unknown","Yes","1",100.76,NA,102.23
+"OBS",60,0,"II","Adenocarcinoma","Unknown","Yes","1",37.52,NA,38.07
+"OBS",61,0,"IB","Adenocarcinoma","Unknown","No","1",59.95,NA,60.83
+"OBS",53,0,"IB","Adenocarcinoma","Unknown","No","0",52.89,NA,53.67
+"OBS",53,0,"IB","Adenocarcinoma","Unknown","Yes","1",66.16,NA,67.13
+"OBS",53,0,"IB","Adenocarcinoma","Unknown","Yes","1",59.99,NA,60.87
+"OBS",67,0,"IB","Adenocarcinoma","Unknown","No","1",71.98,NA,73.03
+"OBS",69,0,"IB","Adenocarcinoma","Unknown","No","0",109.79,NA,111.4
+"OBS",64,0,"IA","Adenocarcinoma","Unknown","Yes","1",43.63,NA,44.27
+"OBS",69,0,"IA","Adenocarcinoma","Unknown","No","0",96.09,NA,97.5
+"OBS",50,0,"IA","Adenocarcinoma","Unknown","No","0",94.61,NA,96
+"OBS",70,0,"IA","Adenocarcinoma","Unknown","No","0",56.64,NA,57.47
+"OBS",57,0,"II","Adenocarcinoma","Unknown","No","1",90.83,NA,54.6
+"OBS",58,0,"II","Adenocarcinoma","Unknown","Yes","1",50.23,NA,10.5
+"OBS",69,1,"II","Adenocarcinoma","Unknown","Yes","1",7.26,NA,3.3
+"OBS",61,1,"II","Adenocarcinoma","Unknown","Yes","1",17.94,NA,3.33
+"OBS",68,1,"II","Adenocarcinoma","Unknown","Yes","1",11.37,NA,5.43
+"OBS",69,1,"II","Adenocarcinoma","Unknown","No","0",87.42,NA,24.1
+"OBS",68,1,"II","Adenocarcinoma","Unknown","Yes","1",13.96,NA,8.33
+"OBS",69,0,"II","Adenocarcinoma","Unknown","Yes","1",42.08,NA,42.7
+"OBS",64,0,"IB","Adenocarcinoma","Unknown","Yes","1",34.3,NA,9.9
+"OBS",64,0,"IB","Adenocarcinoma","Unknown","Yes","1",18.56,NA,17.07
+"OBS",64,1,"IB","Adenocarcinoma","Unknown","Yes","1",53.38,NA,27.1
+"OBS",68,1,"IB","Adenocarcinoma","Unknown","No","0",55.68,NA,46.23
+"OBS",68,0,"IB","Adenocarcinoma","Unknown","Yes","1",97.77,NA,38.13
+"OBS",63,1,"IB","Adenocarcinoma","Unknown","Yes","1",37.55,NA,8.6
+"OBS",58,0,"IB","Adenocarcinoma","Unknown","No","0",55.26,NA,9.07
+"OBS",71,1,"IB","Adenocarcinoma","Unknown","Yes","1",40.8,NA,35.07
+"OBS",52,0,"IB","Adenocarcinoma","Unknown","No","0",73.98,NA,26
+"OBS",66,1,"IA","Adenocarcinoma","Unknown","Yes","1",30.98,NA,20.73
+"OBS",66,1,"IA","Adenocarcinoma","Unknown","No","0",44.22,NA,9.57
+"OBS",47,1,"IA","Adenocarcinoma","Unknown","No","0",48.69,NA,45.43
+"OBS",54,0,"IA","Adenocarcinoma","Unknown","No","1",51.25,NA,33.23
+"OBS",67,1,"IA","Adenocarcinoma","Unknown","No","0",32.88,NA,21.87
+"OBS",54,1,"II","Adenocarcinoma","Unknown","No","0",8.51,NA,8.63
+"OBS",65,0,"II","Adenocarcinoma","Unknown","Yes","1",75.2,NA,76.3
+"OBS",49,0,"II","Adenocarcinoma","Unknown","Yes","0",62.94,NA,63.87
+"OBS",57,0,"II","Adenocarcinoma","Unknown","Yes","1",50.56,NA,51.3
+"OBS",60,0,"II","Adenocarcinoma","Unknown","Yes","1",20.89,NA,21.2
+"OBS",46,0,"II","Adenocarcinoma","Unknown","Yes","1",41.89,NA,10.6
+"OBS",52,0,"II","Adenocarcinoma","Unknown","Yes","1",65.87,NA,66.83
+"OBS",54,0,"II","Adenocarcinoma","Unknown","No","0",64.55,NA,65.5
+"OBS",58,0,"IB","Adenocarcinoma","Unknown","No","0",79.66,NA,80.83
+"OBS",64,0,"IB","Adenocarcinoma","Unknown","No","0",51.45,NA,52.2
+"OBS",65,0,"IB","Adenocarcinoma","Unknown","No","0",32.52,NA,33
+"OBS",52,0,"IB","Adenocarcinoma","Unknown","Yes","1",23.95,NA,24.3
+"OBS",61,0,"IB","Adenocarcinoma","Unknown","No","1",77.33,NA,78.47
+"OBS",61,0,"IB","Adenocarcinoma","Unknown","Yes","1",26.87,NA,27.27
+"OBS",62,0,"IB","Adenocarcinoma","Unknown","Yes","0",66,NA,66.97
+"OBS",47,0,"IB","Adenocarcinoma","Unknown","Yes","0",83.74,NA,84.97
+"OBS",64,0,"IB","Adenocarcinoma","Unknown","Yes","1",112.06,NA,113.7
+"OBS",50,0,"IB","Adenocarcinoma","Unknown","Yes","1",59.33,NA,60.2
+"OBS",66,0,"IA","Adenocarcinoma","Unknown","No","0",63.63,NA,64.57
+"OBS",56,0,"IA","Adenocarcinoma","Unknown","No","1",49.93,NA,50.67
+"OBS",76,0,"IA","Adenocarcinoma","Unknown","Yes","1",45.17,NA,45.83
+"OBS",56,0,"IA","Adenocarcinoma","Unknown","No","0",57.69,NA,58.53
+"OBS",53,0,"IA","Adenocarcinoma","Unknown","Yes","1",52.46,NA,53.23
+"OBS",57,0,"IA","Adenocarcinoma","Unknown","No","1",56.31,NA,57.13
+"OBS",61,0,"IA","Adenocarcinoma","Unknown","No","0",53.78,NA,54.57
+"OBS",66,0,"IA","Adenocarcinoma","Unknown","No","0",54.3,NA,55.1
+"OBS",66,0,"IA","Adenocarcinoma","Unknown","Yes","1",39.29,NA,39.87
+"OBS",57,0,"IA","Adenocarcinoma","Unknown","No","1",55.91,NA,56.73
+"OBS",61,0,"IA","Adenocarcinoma","Unknown","No","0",67.35,NA,68.33
+"OBS",63,0,"IA","Adenocarcinoma","Unknown","Yes","1",41.26,NA,41.87
+"OBS",60,0,"IA","Adenocarcinoma","Unknown","Yes","1",26.87,NA,27.27
+"OBS",59,0,"IA","Adenocarcinoma","Unknown","Yes","1",37.91,NA,38.47
+"OBS",55,0,"IA","Adenocarcinoma","Unknown","No","0",100.46,NA,101.93
+"OBS",52,0,"IA","Adenocarcinoma","Unknown","Yes","1",63.76,NA,64.7
+"OBS",68,0,"IA","Adenocarcinoma","Unknown","No","0",52.43,NA,53.2
+"OBS",55,0,"IA","Adenocarcinoma","Unknown","Yes","1",80.49,NA,81.67
+"OBS",64,0,"IA","Adenocarcinoma","Unknown","No","0",61.79,NA,62.7
+"OBS",51,0,"IA","Adenocarcinoma","Unknown","Yes","1",53.78,NA,54.57
+"OBS",55,0,"IA","Adenocarcinoma","Unknown","No","0",66.82,NA,67.8
+"OBS",65,0,"IA","Adenocarcinoma","Unknown","No","0",70.11,NA,71.13
+"OBS",60,1,"II","Adenocarcinoma","Unknown","No","0",25.59,NA,15.37
+"OBS",58,1,"II","Adenocarcinoma","Unknown","Yes","1",17.74,NA,10.43
+"OBS",68,0,"II","Adenocarcinoma","Unknown","Yes","1",43.27,NA,18
+"OBS",65,0,"II","Adenocarcinoma","Unknown","No","0",65.05,NA,11.37
+"OBS",66,1,"II","Adenocarcinoma","Unknown","Yes","1",23.06,NA,21.03
+"OBS",66,1,"II","Adenocarcinoma","Unknown","Yes","1",18.53,NA,8.43
+"OBS",49,1,"II","Adenocarcinoma","Unknown","Yes","1",44.19,NA,20.43
+"OBS",59,0,"II","Adenocarcinoma","Unknown","No","0",88.27,NA,27.5
+"OBS",64,0,"II","Adenocarcinoma","Unknown","Yes","1",87.65,NA,57.5
+"OBS",67,0,"IB","Adenocarcinoma","Unknown","No","0",63.6,NA,12.8
+"OBS",69,0,"IB","Adenocarcinoma","Unknown","Yes","1",28.61,NA,19.57
+"OBS",61,0,"IB","Adenocarcinoma","Unknown","No","0",87.75,NA,76.07
+"OBS",64,0,"IB","Adenocarcinoma","Unknown","Yes","0",48.69,NA,27.73
+"OBS",53,0,"IB","Adenocarcinoma","Unknown","No","0",37.06,NA,37.53
+"OBS",71,1,"IB","Adenocarcinoma","Unknown","No","0",34.23,NA,25.73
+"OBS",52,1,"IB","Adenocarcinoma","Unknown","No","1",40.37,NA,16.5
+"OBS",52,1,"IB","Adenocarcinoma","Unknown","No","0",74.34,NA,41.4
+"OBS",54,0,"IA","Adenocarcinoma","Unknown","No","0",58.15,NA,32.9
+"OBS",49,1,"IA","Adenocarcinoma","Unknown","Yes","1",47.08,NA,27.57
+"OBS",68,0,"IA","Adenocarcinoma","Unknown","No","0",59.89,NA,34.9
+"OBS",62,0,"IA","Adenocarcinoma","Unknown","No","0",65.31,NA,56.87
+"OBS",63,1,"IA","Adenocarcinoma","Unknown","Yes","1",20.7,NA,15.43
+"OBS",62,0,"IA","Adenocarcinoma","Unknown","No","0",50.49,NA,18.23
+"OBS",57,1,"IA","Adenocarcinoma","Unknown","Yes","0",46.94,NA,41.73
+"OBS",39,1,"IA","Adenocarcinoma","Unknown","Yes","0",34.1,NA,18.9
+"OBS",55,0,"II","Adenocarcinoma","Unknown","No","0",81.67,NA,82.87
+"OBS",64,0,"II","Adenocarcinoma","Unknown","No","0",34.23,NA,34.73
+"OBS",48,0,"II","Adenocarcinoma","Unknown","No","0",33.41,NA,33.9
+"OBS",48,0,"II","Adenocarcinoma","Unknown","No","0",56.41,NA,57.23
+"OBS",60,0,"II","Adenocarcinoma","Unknown","No","0",49.08,NA,49.8
+"OBS",49,0,"II","Adenocarcinoma","Unknown","Yes","1",24.77,NA,25.13
+"OBS",63,0,"II","Adenocarcinoma","Unknown","Yes","1",77.66,NA,13.43
+"OBS",68,0,"IB","Adenocarcinoma","Unknown","Yes","1",56.93,NA,57.77
+"OBS",58,0,"IB","Adenocarcinoma","Unknown","No","0",63.76,NA,64.7
+"OBS",68,0,"IB","Adenocarcinoma","Unknown","Yes","1",25.43,NA,25.8
+"OBS",64,0,"IB","Adenocarcinoma","Unknown","No","0",95.7,NA,97.1
+"OBS",58,0,"IB","Adenocarcinoma","Unknown","Yes","1",59.23,NA,60.1
+"OBS",62,0,"IB","Adenocarcinoma","Unknown","Yes","1",62.81,NA,63.73
+"OBS",66,0,"IB","Adenocarcinoma","Unknown","No","0",48.65,NA,49.37
+"OBS",68,0,"IB","Adenocarcinoma","Unknown","Yes","0",40.44,NA,41.03
+"OBS",68,0,"IB","Adenocarcinoma","Unknown","No","1",64.52,NA,65.47
+"OBS",72,0,"IB","Adenocarcinoma","Unknown","Yes","1",110.12,NA,111.73
+"OBS",62,0,"IB","Adenocarcinoma","Unknown","Yes","1",70.89,NA,71.93
+"OBS",67,0,"IB","Adenocarcinoma","Unknown","No","0",113.86,NA,115.53
+"OBS",52,0,"IB","Adenocarcinoma","Unknown","No","1",107.19,NA,108.77
+"OBS",67,0,"IB","Adenocarcinoma","Unknown","No","0",59.89,NA,60.77
+"OBS",59,0,"IB","Adenocarcinoma","Unknown","No","0",60.97,NA,61.87
+"OBS",70,0,"IB","Adenocarcinoma","Unknown","No","0",80.45,NA,81.63
+"OBS",59,0,"IB","Adenocarcinoma","Unknown","Yes","1",61.07,NA,61.97
+"OBS",56,0,"IB","Adenocarcinoma","Unknown","Yes","1",65.64,NA,66.6
+"OBS",69,0,"IA","Adenocarcinoma","Unknown","Yes","0",60.84,NA,61.73
+"OBS",61,0,"IA","Adenocarcinoma","Unknown","Yes","0",62.22,NA,63.13
+"OBS",54,0,"IA","Adenocarcinoma","Unknown","No","0",61.14,NA,62.03
+"OBS",45,0,"IA","Adenocarcinoma","Unknown","No","0",104.76,NA,106.3
+"OBS",55,0,"IA","Adenocarcinoma","Unknown","No","0",59.86,NA,60.73
+"OBS",61,0,"IA","Adenocarcinoma","Unknown","No","0",59.43,NA,60.3
+"OBS",65,0,"IA","Adenocarcinoma","Unknown","No","0",83.84,NA,85.07
+"OBS",65,0,"IA","Adenocarcinoma","Unknown","No","1",97.5,NA,98.93
+"OBS",47,0,"IA","Adenocarcinoma","Unknown","Yes","1",100.72,NA,102.2
+"OBS",60,0,"IA","Adenocarcinoma","Unknown","No","0",46.39,NA,47.07
+"OBS",55,0,"IA","Adenocarcinoma","Unknown","Yes","1",43.27,NA,43.9
+"OBS",61,0,"IA","Adenocarcinoma","Unknown","No","0",38.76,NA,39.33
+"OBS",67,0,"IA","Adenocarcinoma","Unknown","Yes","1",55.45,NA,56.27
+"OBS",69,0,"IA","Adenocarcinoma","Unknown","Yes","1",46.55,NA,47.23
+"OBS",65,0,"IA","Adenocarcinoma","Unknown","No","0",46.85,NA,47.53
+"OBS",65,0,"IA","Adenocarcinoma","Unknown","Yes","1",54.99,NA,49.63
+"OBS",56,0,"IA","Adenocarcinoma","Unknown","No","0",60.71,NA,61.6
+"OBS",65,0,"IA","Adenocarcinoma","Unknown","Yes","0",60.97,NA,61.87
+"OBS",56,0,"IA","Adenocarcinoma","Unknown","No","0",58.48,NA,59.33
+"OBS",59,0,"IA","Adenocarcinoma","Unknown","No","1",68.46,NA,69.47
+"OBS",56,0,"IA","Adenocarcinoma","Unknown","Yes","1",61.73,NA,62.63
+"OBS",63,0,"IA","Adenocarcinoma","Unknown","Yes","0",36.6,NA,37.13
+"OBS",49,0,"IA","Adenocarcinoma","Unknown","Yes","1",92.18,NA,93.53
+"OBS",58,0,"IA","Adenocarcinoma","Unknown","No","0",54.63,NA,55.43
+"OBS",62,0,"IA","Adenocarcinoma","Unknown","Yes","1",56.7,NA,57.53
+"OBS",68,0,"IA","Adenocarcinoma","Unknown","No","0",53.52,NA,54.3
+"OBS",66,0,"IA","Adenocarcinoma","Unknown","No","0",71.58,NA,72.63
+"OBS",57,0,"IA","Adenocarcinoma","Unknown","Yes","0",62.98,NA,63.9
+"OBS",57,0,"IA","Adenocarcinoma","Unknown","No","0",47.5,NA,48.2
+"OBS",52,0,"IA","Adenocarcinoma","Unknown","Yes","0",38.17,NA,38.73
+"OBS",65,0,"IA","Adenocarcinoma","Unknown","No","0",40.44,NA,41.03
+"OBS",65,0,"IA","Adenocarcinoma","Unknown","Yes","1",30.91,NA,31.37
+"OBS",50,0,"IA","Adenocarcinoma","Unknown","No","0",53.32,NA,54.1
+"OBS",53,0,"IA","Adenocarcinoma","Unknown","No","0",60.94,NA,61.83
+"OBS",53,0,"IA","Adenocarcinoma","Unknown","No","0",46.12,NA,46.8
+"OBS",66,0,"IA","Adenocarcinoma","Unknown","Yes","0",72.96,NA,74.03
+"OBS",62,0,"IA","Adenocarcinoma","Unknown","No","0",27.89,NA,28.3
+"OBS",66,0,"IA","Adenocarcinoma","Unknown","No","0",27.3,NA,27.7
+"OBS",35,0,"IA","Adenocarcinoma","Unknown","Yes","1",105.75,NA,107.3
+"OBS",59,0,"IA","Adenocarcinoma","Unknown","No","0",84.92,NA,86.17
+"OBS",67,0,"IA","Adenocarcinoma","Unknown","No","0",80.22,NA,81.4
+"OBS",56,0,"IA","Adenocarcinoma","Unknown","Yes","0",62.75,NA,63.67
+"OBS",62,0,"IA","Adenocarcinoma","Unknown","No","0",60.25,NA,61.13
+"OBS",67,0,"IA","Adenocarcinoma","Unknown","No","0",75.07,NA,76.17
+"OBS",62,0,"IA","Adenocarcinoma","Unknown","Yes","1",70.6,NA,71.63
+"OBS",63,0,"IA","Adenocarcinoma","Unknown","Yes","1",84.13,NA,85.37
+"OBS",52,0,"IA","Adenocarcinoma","Unknown","Yes","0",63.96,NA,64.9
+"OBS",60,0,"IA","Adenocarcinoma","Unknown","No","0",60.48,NA,61.37
+"OBS",47,0,"IA","Adenocarcinoma","Unknown","No","0",64.75,NA,65.7
+"OBS",56,0,"IA","Adenocarcinoma","Unknown","Yes","1",79.14,NA,80.3
+"OBS",56,0,"IA","Adenocarcinoma","Unknown","No","0",53.35,NA,54.13
+"OBS",63,0,"IA","Adenocarcinoma","Unknown","Yes","0",79.83,NA,81
+"OBS",59,0,"IA","Adenocarcinoma","Unknown","Yes","1",60.97,NA,61.87
+"OBS",62,0,"IA","Adenocarcinoma","Unknown","No","0",49.8,NA,50.53
+"OBS",50,0,"IA","Adenocarcinoma","Unknown","Yes","1",59.76,NA,60.63
+"OBS",55,0,"IA","Adenocarcinoma","Unknown","No","1",79.27,NA,80.43
+"OBS",54,0,"IA","Adenocarcinoma","Unknown","Yes","0",60.74,NA,61.63
+"OBS",65,0,"IA","Adenocarcinoma","Unknown","No","1",71.65,NA,72.7
+"OBS",66,0,"IA","Adenocarcinoma","Unknown","Yes","1",71.22,NA,72.27
+"OBS",62,0,"IA","Adenocarcinoma","Unknown","No","0",70.76,NA,71.8
+"OBS",64,0,"IA","Adenocarcinoma","Unknown","No","0",68.1,NA,69.1
+"OBS",64,0,"IA","Adenocarcinoma","Unknown","No","0",65.51,NA,66.47
+"OBS",61,0,"IA","Adenocarcinoma","Unknown","No","1",70.2,NA,71.23
+"OBS",58,0,"IA","Adenocarcinoma","Unknown","No","0",65.64,NA,66.6
+"OBS",49,0,"IA","Adenocarcinoma","Unknown","Yes","1",62.68,NA,63.6
+"OBS",58,0,"IA","Adenocarcinoma","Unknown","Yes","1",54.53,NA,55.33
+"OBS",63,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",41.9835616438356,NA,NA
+"OBS",78,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",33.1068493150685,NA,NA
+"OBS",68,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",69.041095890411,NA,NA
+"OBS",71,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",94.5534246575343,NA,NA
+"OBS",83,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",15.0904109589041,NA,NA
+"OBS",63,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",27.8465753424658,NA,NA
+"OBS",73,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",64.8657534246575,NA,NA
+"OBS",71,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",7.82465753424658,NA,NA
+"OBS",60,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",23.013698630137,NA,NA
+"OBS",76,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",34.8493150684932,NA,NA
+"OBS",72,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",19.3972602739726,NA,NA
+"OBS",78,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",63.9780821917808,NA,NA
+"OBS",72,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",32.7452054794521,NA,NA
+"OBS",71,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",36.3945205479452,NA,NA
+"OBS",68,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",22.3890410958904,NA,NA
+"OBS",59,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",62.6958904109589,NA,NA
+"OBS",83,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",65.3260273972603,NA,NA
+"OBS",57,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","0",10.7835616438356,NA,NA
+"OBS",52,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",51.1561643835616,NA,NA
+"OBS",66,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",7.56164383561644,NA,NA
+"OBS",55,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",7.95616438356164,NA,NA
+"OBS",79,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",79.627397260274,NA,NA
+"OBS",62,0,"III","Squamous Cell Carcinoma","Unknown","Unknown","0",60.0986301369863,NA,NA
+"OBS",51,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",61.4465753424657,NA,NA
+"OBS",81,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",32.2520547945205,NA,NA
+"OBS",75,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",60.6904109589041,NA,NA
+"OBS",59,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",53.654794520548,NA,NA
+"OBS",62,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",62.2684931506849,NA,NA
+"OBS",74,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",77.5890410958904,NA,NA
+"OBS",79,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",32.2191780821918,NA,NA
+"OBS",64,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",60.5260273972603,NA,NA
+"OBS",55,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","0",8.61369863013699,NA,NA
+"OBS",72,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",73.8739726027397,NA,NA
+"OBS",72,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",5.88493150684931,NA,NA
+"OBS",70,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",32.0876712328767,NA,NA
+"OBS",84,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",27.8794520547945,NA,NA
+"OBS",81,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",23.0465753424658,NA,NA
+"OBS",66,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",70.4547945205479,NA,NA
+"OBS",68,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",64.5041095890411,NA,NA
+"OBS",63,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",61.0191780821918,NA,NA
+"OBS",73,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",61.1835616438356,NA,NA
+"OBS",79,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",60.2958904109589,NA,NA
+"OBS",61,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",38.3671232876712,NA,NA
+"OBS",54,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",46.3232876712329,NA,NA
+"OBS",66,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",53.227397260274,NA,NA
+"OBS",74,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",55.6931506849315,NA,NA
+"OBS",81,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",66.5424657534247,NA,NA
+"OBS",61,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",55.6931506849315,NA,NA
+"OBS",75,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",9.33698630136986,NA,NA
+"OBS",64,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",5.35890410958904,NA,NA
+"OBS",83,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",26.2684931506849,NA,NA
+"OBS",60,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",10.2904109589041,NA,NA
+"OBS",58,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",33.6986301369863,NA,NA
+"OBS",66,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",58.1260273972603,NA,NA
+"OBS",64,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",60.1972602739726,NA,NA
+"OBS",59,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",54.641095890411,NA,NA
+"OBS",57,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",40.5369863013699,NA,NA
+"OBS",74,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",50.4657534246575,NA,NA
+"OBS",64,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",27.9780821917808,NA,NA
+"OBS",62,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",58.2246575342466,NA,NA
+"OBS",66,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",0.164383561643836,NA,NA
+"OBS",71,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",66.641095890411,NA,NA
+"OBS",66,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",25.0520547945206,NA,NA
+"OBS",79,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",25.841095890411,NA,NA
+"OBS",57,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",55.627397260274,NA,NA
+"OBS",64,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",32.1534246575342,NA,NA
+"OBS",88,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",34.3561643835616,NA,NA
+"OBS",70,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",61.7424657534247,NA,NA
+"OBS",63,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",7.92328767123288,NA,NA
+"OBS",79,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",62.8931506849315,NA,NA
+"OBS",71,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",78.1479452054795,NA,NA
+"OBS",72,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",46.2575342465753,NA,NA
+"OBS",62,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",28.1095890410959,NA,NA
+"OBS",55,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",7.62739726027397,NA,NA
+"OBS",68,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",47.4739726027397,NA,NA
+"OBS",72,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",6.77260273972603,NA,NA
+"OBS",76,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",3.97808219178082,NA,NA
+"OBS",63,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",9.86301369863014,NA,NA
+"OBS",81,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",31.5945205479452,NA,NA
+"OBS",72,0,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",69.0082191780822,NA,NA
+"OBS",78,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",44.186301369863,NA,NA
+"OBS",67,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",45.6986301369863,NA,NA
+"OBS",63,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",61.841095890411,NA,NA
+"OBS",67,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",64.8,NA,NA
+"OBS",64,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",67.2,NA,NA
+"OBS",61,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",61.9068493150685,NA,NA
+"OBS",79,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",67.9232876712329,NA,NA
+"OBS",82,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",63.4191780821918,NA,NA
+"OBS",65,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",16.6027397260274,NA,NA
+"OBS",64,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",12.7561643835616,NA,NA
+"OBS",69,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",69.3041095890411,NA,NA
+"OBS",64,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",45.6328767123288,NA,NA
+"OBS",82,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","0",32.5150684931507,NA,NA
+"OBS",69,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",49.2493150684932,NA,NA
+"OBS",52,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",72.0328767123288,NA,NA
+"OBS",73,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",62.8931506849315,NA,NA
+"OBS",89,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",70.2246575342466,NA,NA
+"OBS",80,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",47.4739726027397,NA,NA
+"OBS",70,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",21.172602739726,NA,NA
+"OBS",79,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",69.4684931506849,NA,NA
+"OBS",77,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",90.4767123287671,NA,NA
+"OBS",69,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",60.7890410958904,NA,NA
+"OBS",65,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",72.1643835616438,NA,NA
+"OBS",73,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",68.0219178082192,NA,NA
+"OBS",54,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",102.082191780822,NA,NA
+"OBS",61,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",57.9945205479452,NA,NA
+"OBS",61,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",17.7534246575342,NA,NA
+"OBS",71,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",47.441095890411,NA,NA
+"OBS",48,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",72.0328767123288,NA,NA
+"OBS",78,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",32.5479452054795,NA,NA
+"OBS",80,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",79.5287671232877,NA,NA
+"OBS",60,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",66.7397260273973,NA,NA
+"OBS",79,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",62.3671232876712,NA,NA
+"OBS",59,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",61.7095890410959,NA,NA
+"OBS",82,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",16.1753424657534,NA,NA
+"OBS",84,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",47.6712328767123,NA,NA
+"OBS",68,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",84.6575342465754,NA,NA
+"OBS",63,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",61.7753424657534,NA,NA
+"OBS",69,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",61.0849315068493,NA,NA
+"OBS",65,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",66.5095890410959,NA,NA
+"OBS",63,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",66.772602739726,NA,NA
+"OBS",51,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",68.8438356164384,NA,NA
+"OBS",64,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",67.6602739726027,NA,NA
+"OBS",72,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",44.6465753424658,NA,NA
+"OBS",73,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",5.65479452054795,NA,NA
+"OBS",60,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",51.7479452054795,NA,NA
+"OBS",72,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",61.0849315068493,NA,NA
+"OBS",76,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",24.4931506849315,NA,NA
+"OBS",63,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",71.013698630137,NA,NA
+"OBS",84,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",4.56986301369863,NA,NA
+"OBS",63,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",66.5424657534247,NA,NA
+"OBS",65,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",29.2931506849315,NA,NA
+"OBS",75,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",64.1424657534247,NA,NA
+"OBS",61,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",20.7452054794521,NA,NA
+"OBS",67,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",68.9753424657534,NA,NA
+"OBS",74,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",38.0054794520548,NA,NA
+"OBS",71,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",65.5890410958904,NA,NA
+"OBS",65,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",60.427397260274,NA,NA
+"OBS",79,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",62.1041095890411,NA,NA
+"OBS",80,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",64.9972602739726,NA,NA
+"OBS",78,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",9.76438356164384,NA,NA
+"OBS",66,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",60.7890410958904,NA,NA
+"OBS",82,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",19.8575342465753,NA,NA
+"OBS",65,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",64.0438356164384,NA,NA
+"OBS",78,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",55.7260273972603,NA,NA
+"OBS",70,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",26.827397260274,NA,NA
+"OBS",59,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",30.3780821917808,NA,NA
+"OBS",85,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",87.0575342465753,NA,NA
+"OBS",65,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",39.2876712328767,NA,NA
+"OBS",74,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",51.1232876712329,NA,NA
+"OBS",76,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",62.5643835616438,NA,NA
+"OBS",74,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",52.3397260273973,NA,NA
+"OBS",61,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",15.5506849315068,NA,NA
+"OBS",64,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",8.48219178082192,NA,NA
+"OBS",64,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",7.3972602739726,NA,NA
+"OBS",56,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",60.6904109589041,NA,NA
+"OBS",70,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",63.1890410958904,NA,NA
+"OBS",59,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",13.7753424657534,NA,NA
+"OBS",73,0,"III","Squamous Cell Carcinoma","Unknown","Unknown","0",66.6082191780822,NA,NA
+"OBS",69,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",11.7698630136986,NA,NA
+"OBS",71,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",60.8547945205479,NA,NA
+"OBS",68,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",63.8465753424658,NA,NA
+"OBS",61,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",60.3616438356164,NA,NA
+"OBS",71,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",61.972602739726,NA,NA
+"OBS",78,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",4.76712328767123,NA,NA
+"OBS",73,0,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",64.1424657534247,NA,NA
+"OBS",59,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",51.0246575342466,NA,NA
+"OBS",65,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",10.2246575342466,NA,NA
+"OBS",62,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",26.0054794520548,NA,NA
+"OBS",76,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",18.0493150684932,NA,NA
+"OBS",68,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",42.9369863013699,NA,NA
+"OBS",69,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",49.4465753424657,NA,NA
+"OBS",73,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",12,NA,NA
+"OBS",68,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",85.9068493150685,NA,NA
+"OBS",72,0,"III","Squamous Cell Carcinoma","Unknown","Unknown","0",91.0027397260274,NA,NA
+"OBS",59,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",22.1260273972603,NA,NA
+"OBS",73,0,"III","Squamous Cell Carcinoma","Unknown","Unknown","0",61.1835616438356,NA,NA
+"OBS",53,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",39.4191780821918,NA,NA
+"OBS",60,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",46.5534246575343,NA,NA
+"OBS",81,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",17.2931506849315,NA,NA
+"OBS",61,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",3.55068493150685,NA,NA
+"OBS",65,0,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",66.9041095890411,NA,NA
+"OBS",68,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",55.6931506849315,NA,NA
+"OBS",68,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",8.18630136986301,NA,NA
+"OBS",71,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",64.6684931506849,NA,NA
+"OBS",55,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",8.54794520547945,NA,NA
+"OBS",63,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",14.7287671232877,NA,NA
+"OBS",65,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",12.7890410958904,NA,NA
+"OBS",66,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",18.8054794520548,NA,NA
+"OBS",59,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",62.1369863013699,NA,NA
+"OBS",65,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",41.5561643835616,NA,NA
+"OBS",65,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",62.3342465753425,NA,NA
+"OBS",55,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",13.1178082191781,NA,NA
+"OBS",64,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",27.0575342465753,NA,NA
+"OBS",70,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",31.0684931506849,NA,NA
+"OBS",46,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",71.2767123287671,NA,NA
+"OBS",67,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",28.0438356164384,NA,NA
+"OBS",73,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",61.0520547945205,NA,NA
+"OBS",71,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",69.041095890411,NA,NA
+"OBS",55,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",63.5835616438356,NA,NA
+"OBS",86,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",6.96986301369863,NA,NA
+"OBS",70,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",70.6849315068493,NA,NA
+"OBS",75,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",23.572602739726,NA,NA
+"OBS",68,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",53.8520547945205,NA,NA
+"OBS",73,0,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",61.2164383561644,NA,NA
+"OBS",48,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",61.3479452054794,NA,NA
+"OBS",66,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",4.63561643835616,NA,NA
+"OBS",73,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",61.0520547945205,NA,NA
+"OBS",61,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",60.6904109589041,NA,NA
+"OBS",81,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","0",14.1041095890411,NA,NA
+"OBS",70,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",67.8904109589041,NA,NA
+"OBS",70,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",68.5808219178082,NA,NA
+"OBS",71,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",48.3287671232877,NA,NA
+"OBS",82,0,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",61.6767123287671,NA,NA
+"OBS",66,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",34.5205479452055,NA,NA
+"OBS",60,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",64.4712328767123,NA,NA
+"OBS",77,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",69.041095890411,NA,NA
+"OBS",65,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",71.8684931506849,NA,NA
+"OBS",67,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",66.4767123287671,NA,NA
+"OBS",69,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",60.2958904109589,NA,NA
+"OBS",52,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",15.0904109589041,NA,NA
+"OBS",65,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",61.7095890410959,NA,NA
+"OBS",75,0,"III","Squamous Cell Carcinoma","Unknown","Unknown","0",68.7123287671233,NA,NA
+"OBS",82,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",57.7315068493151,NA,NA
+"OBS",59,0,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",64.2082191780822,NA,NA
+"OBS",82,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",57.6,NA,NA
+"OBS",57,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",19.6602739726027,NA,NA
+"OBS",53,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","0",38.827397260274,NA,NA
+"OBS",70,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",54.4109589041096,NA,NA
+"OBS",63,1,"IB","Squamous Cell Carcinoma","Unknown","Unknown","1",21.3041095890411,NA,NA
+"OBS",77,1,"III","Squamous Cell Carcinoma","Unknown","Unknown","1",12,NA,NA
+"OBS",69,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",63.7150684931507,NA,NA
+"OBS",72,0,"IB","Squamous Cell Carcinoma","Unknown","Unknown","0",60.1972602739726,NA,NA
+"OBS",74,0,"IA","Adenocarcinoma","Caucasian","Yes","0",105.6,NA,NA
+"OBS",74,0,"IA","Adenocarcinoma","Caucasian","Yes","0",25.2,NA,NA
+"OBS",74,1,"IB","Adenocarcinoma","Caucasian","Yes","0",64.8,NA,NA
+"OBS",82,0,"IA","Adenocarcinoma","Unknown","No","0",69.2,NA,NA
+"OBS",59,1,"IB","Adenocarcinoma","Caucasian","No","0",33.9,6.6,NA
+"OBS",60,0,"IA","Adenocarcinoma","Caucasian","Yes","0",83,42.5,NA
+"OBS",54,0,"IA","Adenocarcinoma","Caucasian","Yes","0",69.2,30,NA
+"OBS",63,0,"IA","Adenocarcinoma","Caucasian","Yes","0",27.1,3,NA
+"OBS",63,1,"IA","Adenocarcinoma","Caucasian","Yes","0",5.8,5.67,NA
+"OBS",66,1,"II","Adenocarcinoma","Caucasian","Yes","1",50.2,NA,NA
+"OBS",52,0,"IA","Adenocarcinoma","Unknown","Yes","0",73,56.97,NA
+"OBS",62,1,"IA","Adenocarcinoma","Caucasian","Yes","0",34.8,25,NA
+"OBS",60,1,"IA","Adenocarcinoma","Caucasian","Yes","1",27.6,NA,NA
+"OBS",66,1,"IB","Adenocarcinoma","Caucasian","Yes","0",48.8,36,NA
+"ACT",61,0,"IB","Adenocarcinoma","Asian","No","0",66.6,9,NA
+"OBS",68,1,"IB","Adenocarcinoma","Caucasian","Yes","0",10.1,5.3,NA
+"ACT",48,1,"IB","Adenocarcinoma","Caucasian","Yes","0",8.7,1,NA
+"OBS",75,1,"IA","Adenocarcinoma","Caucasian","Yes","0",61.2,43,NA
+"OBS",50,0,"IB","Adenocarcinoma","Caucasian","Yes","0",132.2,NA,NA
+"OBS",75,1,"IA","Adenocarcinoma","Caucasian","Yes","0",128.8,NA,NA
+"OBS",72,1,"IB","Adenocarcinoma","Caucasian","Yes","0",43.8,NA,NA
+"OBS",72,1,"III","Adenocarcinoma","Caucasian","Yes","0",5.9,NA,NA
+"OBS",71,1,"III","Adenocarcinoma","Caucasian","Yes","1",2.4,NA,NA
+"ACT",58,1,"III","Adenocarcinoma","Caucasian","Yes","1",17.6,9,NA
+"ACT",63,1,"III","Adenocarcinoma","Unknown","Yes","1",16.3,4,NA
+"ACT",74,1,"III","Adenocarcinoma","Caucasian","Yes","0",29.6,24,NA
+"OBS",76,1,"IB","Adenocarcinoma","Caucasian","Yes","1",81.2,NA,NA
+"OBS",59,1,"IA","Adenocarcinoma","Caucasian","Yes","1",59,NA,NA
+"OBS",71,1,"III","Adenocarcinoma","Caucasian","Yes","1",92.6,NA,NA
+"OBS",45,1,"II","Adenocarcinoma","Caucasian","Yes","0",4,3,NA
+"ACT",78,1,"III","Adenocarcinoma","Caucasian","Yes","0",16.8,NA,NA
+"OBS",75,0,"IB","Adenocarcinoma","Caucasian","Yes","1",62,NA,NA
+"ACT",61,1,"IB","Adenocarcinoma","Caucasian","Yes","1",62.3,NA,NA
+"OBS",65,0,"IA","Adenocarcinoma","Caucasian","Yes","1",71.8,NA,NA
+"OBS",69,0,"IA","Adenocarcinoma","African American","Yes","1",84,NA,NA
+"OBS",73,1,"IB","Adenocarcinoma","Caucasian","Yes","1",18.6,NA,NA
+"OBS",51,1,"IB","Adenocarcinoma","Caucasian","Unknown","1",45.8,NA,NA
+"ACT",63,1,"IB","Adenocarcinoma","Unknown","Yes","0",20.6,5,NA
+"OBS",60,0,"IA","Adenocarcinoma","Caucasian","Yes","1",110.5,NA,NA
+"OBS",42,0,"IA","Adenocarcinoma","Caucasian","Yes","1",133.6,51,NA
+"OBS",56,1,"II","Adenocarcinoma","Caucasian","Yes","1",70.5,30,NA
+"OBS",69,0,"IA","Adenocarcinoma","Caucasian","Yes","0",52.1,NA,NA
+"OBS",58,1,"III","Adenocarcinoma","Asian","No","0",17.6,NA,NA
+"OBS",62,1,"III","Adenocarcinoma","African American","Yes","1",16.9,4,NA
+"OBS",62,0,"IA","Adenocarcinoma","Caucasian","Yes","0",86.8,NA,NA
+"OBS",65,0,"IB","Adenocarcinoma","Unknown","Yes","1",103.4,102,NA
+"ACT",73,0,"IB","Adenocarcinoma","Caucasian","No","0",117.6,NA,NA
+"ACT",52,1,"II","Adenocarcinoma","Caucasian","Yes","0",115.8,34,NA
+"OBS",72,1,"IA","Adenocarcinoma","Caucasian","Yes","1",19,NA,NA
+"ACT",65,1,"IA","Adenocarcinoma","Caucasian","Yes","1",84.1,79,NA
+"OBS",65,0,"IA","Adenocarcinoma","Caucasian","Yes","0",153.3,NA,NA
+"OBS",59,0,"IB","Adenocarcinoma","Caucasian","Unknown","0",153.9,NA,NA
+"OBS",62,0,"IA","Adenocarcinoma","Caucasian","Yes","0",162.6,NA,NA
+"OBS",63,0,"IB","Adenocarcinoma","Caucasian","Yes","1",63.8,NA,NA
+"ACT",54,1,"IA","Adenocarcinoma","Caucasian","Yes","0",132.5,94,NA
+"OBS",57,0,"IA","Adenocarcinoma","Caucasian","Unknown","0",130.8,NA,NA
+"OBS",59,0,"IA","Adenocarcinoma","African American","Yes","0",159.6,NA,NA
+"OBS",48,0,"IA","Adenocarcinoma","Caucasian","No","0",157.7,NA,NA
+"OBS",44,0,"IA","Adenocarcinoma","Caucasian","Yes","0",76.3,NA,NA
+"OBS",40,0,"IA","Adenocarcinoma","Caucasian","Yes","0",105.9,NA,NA
+"OBS",64,1,"III","Adenocarcinoma","Unknown","Yes","1",28.2,NA,NA
+"OBS",69,1,"III","Adenocarcinoma","Caucasian","Yes","1",7.2,5,NA
+"OBS",67,1,"IA","Adenocarcinoma","Caucasian","Yes","1",79.5,NA,NA
+"OBS",62,0,"IA","Adenocarcinoma","Caucasian","Yes","0",82.3,50,NA
+"OBS",60,0,"IB","Adenocarcinoma","Caucasian","Yes","1",101.2,NA,NA
+"OBS",46,0,"IA","Adenocarcinoma","Asian","Yes","1",168.1,NA,NA
+"OBS",56,1,"III","Adenocarcinoma","Caucasian","Yes","1",9.6,7,NA
+"OBS",53,0,"IA","Adenocarcinoma","Caucasian","Yes","0",95,NA,NA
+"OBS",51,0,"IB","Adenocarcinoma","Caucasian","Yes","1",62.4,NA,NA
+"OBS",63,0,"II","Adenocarcinoma","African American","Yes","0",64.3,NA,NA
+"OBS",85,1,"IA","Adenocarcinoma","Caucasian","Yes","0",20.9,NA,NA
+"OBS",60,1,"II","Adenocarcinoma","Caucasian","Yes","0",22.3,22,NA
+"OBS",58,1,"II","Adenocarcinoma","Caucasian","Yes","1",67.9,12,NA
+"OBS",81,0,"IA","Adenocarcinoma","Caucasian","Yes","1",36.3,NA,NA
+"ACT",52,1,"II","Adenocarcinoma","Caucasian","Yes","0",22.7,14,NA
+"ACT",81,0,"II","Adenocarcinoma","Unknown","No","0",32.9,NA,NA
+"OBS",57,0,"IA","Adenocarcinoma","Unknown","No","0",38.1,NA,NA
+"ACT",76,1,"IA","Adenocarcinoma","Unknown","No","0",54.2,27,NA
+"ACT",60,1,"II","Adenocarcinoma","Caucasian","Yes","0",96.1,52,NA
+"OBS",62,0,"IA","Adenocarcinoma","Caucasian","Yes","0",53.2,10,NA
+"OBS",68,1,"II","Adenocarcinoma","Caucasian","Yes","1",12.5,NA,NA
+"OBS",73,0,"IA","Adenocarcinoma","Unknown","Yes","1",29.5,NA,NA
+"OBS",65,0,"II","Adenocarcinoma","Caucasian","Yes","0",107.5,NA,NA
+"OBS",63,0,"IB","Adenocarcinoma","Caucasian","Yes","1",53.7,NA,NA
+"OBS",70,0,"IA","Adenocarcinoma","Caucasian","Yes","1",21.8,NA,NA
+"OBS",78,0,"IA","Adenocarcinoma","Caucasian","Yes","1",55.8,NA,NA
+"OBS",54,1,"II","Adenocarcinoma","Caucasian","Yes","1",21,NA,NA
+"OBS",78,1,"II","Adenocarcinoma","Caucasian","Yes","1",7.3,NA,NA
+"OBS",66,0,"IB","Adenocarcinoma","Caucasian","Unknown","1",159.9,NA,NA
+"OBS",72,0,"IA","Adenocarcinoma","Caucasian","Yes","1",60.8,NA,NA
+"OBS",81,1,"IA","Adenocarcinoma","Caucasian","No","0",21.2,8,NA
+"ACT",69,0,"IB","Adenocarcinoma","Caucasian","No","0",53.6,46,NA
+"OBS",59,0,"III","Adenocarcinoma","Caucasian","Yes","1",23.2,NA,NA
+"OBS",76,0,"IB","Adenocarcinoma","Caucasian","Unknown","0",47.27,NA,NA
+"OBS",70,1,"IB","Adenocarcinoma","Caucasian","Unknown","1",59.11,NA,NA
+"OBS",58,0,"IB","Adenocarcinoma","Caucasian","Unknown","1",51.58,NA,NA
+"OBS",48,1,"IB","Adenocarcinoma","Caucasian","Unknown","0",36.25,19,NA
+"OBS",82,1,"II","Adenocarcinoma","Caucasian","Unknown","1",6.6,NA,NA
+"OBS",62,1,"IA","Adenocarcinoma","Caucasian","Unknown","1",54.93,9.6,NA
+"OBS",82,1,"III","Adenocarcinoma","Caucasian","Unknown","1",9.74,NA,NA
+"OBS",68,0,"IA","Adenocarcinoma","Caucasian","Unknown","1",58.88,NA,NA
+"OBS",58,0,"IB","Adenocarcinoma","African American","Unknown","1",51.81,NA,NA
+"OBS",63,1,"IA","Adenocarcinoma","Caucasian","Unknown","1",21.48,19.5,NA
+"OBS",78,1,"II","Adenocarcinoma","Caucasian","Unknown","1",6.38,NA,NA
+"OBS",57,1,"IB","Adenocarcinoma","African American","Unknown","0",69.01,25,NA
+"OBS",77,0,"IA","Adenocarcinoma","Caucasian","Unknown","0",64.14,64.14,NA
+"OBS",86,1,"III","Adenocarcinoma","Caucasian","Unknown","0",32.24,12,NA
+"OBS",73,0,"IB","Adenocarcinoma","Caucasian","Unknown","1",56.35,NA,NA
+"OBS",70,0,"IA","Adenocarcinoma","Caucasian","Unknown","0",69.05,NA,NA
+"OBS",75,0,"IA","Adenocarcinoma","Caucasian","Unknown","0",56.32,29,NA
+"OBS",49,0,"IA","Adenocarcinoma","Caucasian","Unknown","0",61.25,NA,NA
+"OBS",51,0,"IA","Adenocarcinoma","Caucasian","Unknown","0",50.43,NA,NA
+"OBS",66,0,"IA","Adenocarcinoma","Caucasian","Unknown","1",73.36,NA,NA
+"OBS",76,0,"IB","Adenocarcinoma","Caucasian","Unknown","0",66.74,NA,NA
+"OBS",78,0,"IA","Adenocarcinoma","Caucasian","Unknown","0",72.8,NA,NA
+"OBS",76,1,"IA","Adenocarcinoma","Caucasian","Unknown","1",19.9,NA,NA
+"OBS",60,1,"III","Adenocarcinoma","Caucasian","Unknown","0",31.28,14.3,NA
+"OBS",73,1,"IA","Adenocarcinoma","Caucasian","Unknown","1",45.33,NA,NA
+"OBS",72,0,"IA","Adenocarcinoma","Caucasian","Unknown","0",83.95,NA,NA
+"OBS",55,1,"III","Adenocarcinoma","Caucasian","Unknown","0",12.63,NA,NA
+"OBS",64,0,"IB","Adenocarcinoma","Caucasian","Unknown","0",77.89,NA,NA
+"OBS",53,0,"IB","Adenocarcinoma","Caucasian","Unknown","0",11.18,9.6,NA
+"OBS",77,0,"III","Adenocarcinoma","Caucasian","Unknown","0",30.53,NA,NA
+"OBS",55,0,"IA","Adenocarcinoma","Caucasian","Unknown","0",73.59,32,NA
+"OBS",67,1,"IB","Adenocarcinoma","Caucasian","Unknown","1",11.68,6.2,NA
+"OBS",70,0,"IA","Adenocarcinoma","Caucasian","Unknown","0",74.61,NA,NA
+"OBS",72,1,"IB","Adenocarcinoma","Caucasian","Unknown","0",31.94,15,NA
+"OBS",43,1,"IA","Adenocarcinoma","Caucasian","Unknown","1",2.24,NA,NA
+"OBS",52,1,"II","Adenocarcinoma","Caucasian","Unknown","0",8.85,NA,NA
+"OBS",69,0,"IA","Adenocarcinoma","Caucasian","Unknown","0",92.2,NA,NA
+"OBS",33,0,"IB","Adenocarcinoma","Unknown","Unknown","0",90.07,7,NA
+"OBS",59,1,"III","Adenocarcinoma","Caucasian","Unknown","1",24.97,NA,NA
+"OBS",62,1,"IA","Adenocarcinoma","Caucasian","Unknown","1",42.04,41,NA
+"OBS",70,1,"IA","Adenocarcinoma","Unknown","Unknown","1",12.2,NA,NA
+"ACT",64,1,"III","Adenocarcinoma","Caucasian","Yes","1",16,8,NA
+"ACT",62,0,"IB","Adenocarcinoma","Caucasian","Yes","1",72,3,NA
+"OBS",70,0,"IA","Adenocarcinoma","Caucasian","Yes","0",47,NA,NA
+"OBS",67,1,"III","Adenocarcinoma","Caucasian","Yes","1",52,50,NA
+"ACT",56,1,"II","Adenocarcinoma","Caucasian","Yes","0",39,14,NA
+"OBS",57,0,"II","Adenocarcinoma","Caucasian","Yes","1",66,NA,NA
+"OBS",81,0,"IB","Adenocarcinoma","Caucasian","No","0",44,NA,NA
+"OBS",65,0,"IA","Adenocarcinoma","Caucasian","Yes","0",70,NA,NA
+"OBS",73,0,"III","Adenocarcinoma","Caucasian","No","0",75,NA,NA
+"OBS",65,0,"IA","Adenocarcinoma","Caucasian","Yes","1",92,37,NA
+"OBS",62,0,"IA","Adenocarcinoma","Caucasian","Yes","1",65,NA,NA
+"ACT",71,0,"III","Adenocarcinoma","Caucasian","Yes","1",43,13,NA
+"OBS",82,0,"IA","Adenocarcinoma","Caucasian","Yes","0",69,NA,NA
+"OBS",68,1,"IB","Adenocarcinoma","Caucasian","Yes","1",40,23,NA
+"OBS",48,1,"III","Adenocarcinoma","Caucasian","No","0",21,NA,NA
+"ACT",82,1,"IB","Adenocarcinoma","Caucasian","Yes","0",29,6,NA
+"ACT",64,1,"III","Adenocarcinoma","Caucasian","Yes","1",26,10,NA
+"OBS",68,0,"IB","Adenocarcinoma","Caucasian","Yes","1",77,37,NA
+"OBS",58,1,"III","Adenocarcinoma","Caucasian","Yes","1",2,1,NA
+"OBS",73,0,"IA","Adenocarcinoma","Caucasian","Yes","1",66,37,NA
+"ACT",52,1,"III","Adenocarcinoma","Caucasian","Yes","0",14,8,NA
+"OBS",62,0,"IB","Adenocarcinoma","Caucasian","Yes","1",33,NA,NA
+"OBS",51,0,"IB","Adenocarcinoma","Caucasian","Yes","1",85,NA,NA
+"OBS",62,0,"IB","Adenocarcinoma","African American","Yes","1",66,35,NA
+"OBS",50,0,"IA","Adenocarcinoma","Caucasian","Yes","0",15,NA,NA
+"OBS",65,0,"IB","Adenocarcinoma","Asian","Yes","1",91,NA,NA
+"ACT",74,1,"IB","Adenocarcinoma","Caucasian","Yes","1",68,39,NA
+"OBS",55,0,"II","Adenocarcinoma","Caucasian","Yes","0",33,NA,NA
+"ACT",54,1,"III","Adenocarcinoma","Caucasian","Yes","1",24,8,NA
+"OBS",76,0,"IA","Adenocarcinoma","Caucasian","Yes","1",62,NA,NA
+"ACT",64,1,"III","Adenocarcinoma","Caucasian","Yes","0",114,1,NA
+"OBS",58,1,"III","Adenocarcinoma","Caucasian","Yes","0",4,NA,NA
+"ACT",70,1,"II","Adenocarcinoma","Caucasian","Yes","1",20,13,NA
+"ACT",57,1,"III","Adenocarcinoma","Caucasian","Yes","0",52,23,NA
+"ACT",67,0,"II","Adenocarcinoma","Caucasian","Yes","0",93,NA,NA
+"OBS",74,1,"IB","Adenocarcinoma","Caucasian","Yes","0",14,NA,NA
+"ACT",59,0,"II","Adenocarcinoma","Caucasian","No","0",100,19,NA
+"OBS",66,0,"IB","Adenocarcinoma","Caucasian","Yes","0",33,NA,NA
+"ACT",67,1,"II","Adenocarcinoma","Caucasian","No","1",32,21,NA
+"OBS",57,0,"IA","Adenocarcinoma","Caucasian","Yes","0",60,NA,NA
+"OBS",64,0,"IB","Adenocarcinoma","Caucasian","Yes","1",50,NA,NA
+"OBS",59,1,"IB","Adenocarcinoma","African American","Yes","0",15,7,NA
+"OBS",76,0,"IB","Adenocarcinoma","Caucasian","No","0",37,NA,NA
+"OBS",82,0,"IB","Adenocarcinoma","Caucasian","Yes","0",54,NA,NA
+"OBS",58,0,"IA","Adenocarcinoma","Caucasian","Yes","1",31,NA,NA
+"OBS",65,0,"IB","Adenocarcinoma","Caucasian","Yes","1",38,NA,NA
+"OBS",49,0,"III","Adenocarcinoma","Caucasian","No","0",115,NA,NA
+"OBS",71,0,"III","Adenocarcinoma","Caucasian","Yes","0",36,10,NA
+"ACT",61,1,"IA","Adenocarcinoma","Caucasian","Yes","0",48,NA,NA
+"ACT",75,1,"III","Adenocarcinoma","Caucasian","Yes","1",19,9,NA
+"OBS",46,0,"IA","Adenocarcinoma","Caucasian","Yes","0",91,NA,NA
+"OBS",74,1,"IB","Adenocarcinoma","Asian","Yes","0",204,NA,NA
+"OBS",51,0,"II","Adenocarcinoma","Caucasian","No","0",50,NA,NA
+"OBS",54,0,"IA","Adenocarcinoma","Caucasian","Yes","1",80,NA,NA
+"ACT",50,1,"III","Adenocarcinoma","Caucasian","Yes","0",42,27,NA
+"OBS",69,0,"IB","Adenocarcinoma","Caucasian","Yes","0",60,NA,NA
+"OBS",63,0,"II","Adenocarcinoma","Caucasian","Yes","0",26,NA,NA
+"OBS",76,1,"IB","Adenocarcinoma","Caucasian","Yes","0",62,55,NA
+"OBS",72,0,"II","Adenocarcinoma","Caucasian","Yes","0",22,NA,NA
+"OBS",70,0,"IA","Adenocarcinoma","Caucasian","Yes","0",63,NA,NA
+"OBS",76,0,"IA","Adenocarcinoma","Caucasian","Yes","1",68,NA,NA
+"OBS",81,0,"IA","Adenocarcinoma","Caucasian","Yes","0",7,NA,NA
+"ACT",61,1,"IB","Adenocarcinoma","Caucasian","No","0",52,19,NA
+"OBS",53,0,"IA","Adenocarcinoma","Caucasian","No","0",36,NA,NA
+"OBS",72,1,"II","Adenocarcinoma","Caucasian","Yes","0",15,5,NA
+"OBS",53,1,"II","Adenocarcinoma","Caucasian","Yes","0",20,13,NA
+"OBS",61,0,"IB","Adenocarcinoma","Caucasian","Yes","1",41,26,NA
+"ACT",66,1,"III","Adenocarcinoma","Caucasian","Unknown","1",25,10,NA
+"OBS",74,0,"II","Adenocarcinoma","Caucasian","Yes","0",42,NA,NA
+"ACT",48,1,"III","Adenocarcinoma","Caucasian","Yes","0",51,29,NA
+"OBS",65,0,"IB","Adenocarcinoma","Caucasian","Yes","0",50,NA,NA
+"ACT",70,1,"IB","Adenocarcinoma","African American","Yes","0",57,5,NA
+"ACT",79,1,"IB","Adenocarcinoma","Caucasian","Yes","0",13,7,NA
+"ACT",67,1,"IB","Adenocarcinoma","Caucasian","Yes","1",78,11,NA
+"OBS",77,0,"IB","Adenocarcinoma","Caucasian","Yes","1",48,NA,NA
+"OBS",63,1,"III","Adenocarcinoma","Caucasian","Yes","0",33,NA,NA
+"OBS",76,0,"IB","Adenocarcinoma","Caucasian","Yes","0",37,NA,NA
+"ACT",72,1,"II","Adenocarcinoma","Caucasian","Yes","1",17,15,NA
+"OBS",51,1,"IA","Adenocarcinoma","Caucasian","Yes","0",24,NA,NA
+"OBS",63,0,"IA","Adenocarcinoma","Caucasian","No","0",44,NA,NA
+"OBS",80,0,"IA","Adenocarcinoma","Caucasian","Yes","0",30,NA,NA
+"ACT",74,0,"II","Adenocarcinoma","Caucasian","No","0",50,26,NA
+"OBS",58,0,"IA","Adenocarcinoma","Caucasian","Yes","0",88,NA,NA
+"OBS",62,0,"IB","Adenocarcinoma","Caucasian","Yes","0",42,16,NA
+"OBS",67,0,"IA","Adenocarcinoma","Caucasian","Unknown","0",46,NA,NA
+"OBS",71,0,"IA","Adenocarcinoma","Caucasian","Yes","0",56,NA,NA
+"OBS",61,0,"IA","Adenocarcinoma","Caucasian","Yes","0",40,NA,NA
+"OBS",38,0,"III","Adenocarcinoma","Caucasian","No","0",38,NA,NA
+"OBS",72,0,"II","Adenocarcinoma","Caucasian","Yes","0",43,NA,NA
+"OBS",43,0,"IA","Adenocarcinoma","Caucasian","Yes","0",55,NA,NA
+"ACT",65,1,"III","Adenocarcinoma","Caucasian","No","0",17,7,NA
+"OBS",54,0,"IB","Adenocarcinoma","Caucasian","No","0",36,NA,NA
+"OBS",79,1,"II","Adenocarcinoma","Caucasian","No","0",10,6,NA
+"ACT",61,1,"IB","Adenocarcinoma","Caucasian","No","1",23,21,NA
+"OBS",74,0,"IB","Adenocarcinoma","Caucasian","Yes","1",62,NA,NA
+"ACT",80,0,"II","Adenocarcinoma","Caucasian","Yes","0",85,36,NA
+"ACT",68,1,"IB","Adenocarcinoma","Caucasian","Yes","0",47,11,NA
+"OBS",64,1,"IA","Adenocarcinoma","Caucasian","Yes","0",48,11,NA
+"ACT",58,0,"II","Adenocarcinoma","Caucasian","Yes","0",57,31,NA
+"OBS",57,0,"IB","Adenocarcinoma","Unknown","Yes","1",43,NA,NA
+"OBS",57,0,"IB","Adenocarcinoma","Caucasian","Yes","0",41,NA,NA
+"OBS",67,0,"IB","Adenocarcinoma","Caucasian","No","1",43,NA,NA
+"OBS",75,0,"II","Adenocarcinoma","Caucasian","Yes","0",32,NA,NA
+"OBS",74,0,"IA","Adenocarcinoma","Caucasian","No","1",64,NA,NA
+"OBS",59,0,"IB","Adenocarcinoma","Unknown","Yes","1",107,NA,NA
+"OBS",75,1,"IB","Adenocarcinoma","Unknown","Yes","1",25,14,NA
+"OBS",60,0,"IB","Adenocarcinoma","Unknown","Yes","0",96,NA,NA
+"OBS",41,0,"IB","Adenocarcinoma","Unknown","Yes","0",98,2,NA
+"OBS",59,1,"IA","Adenocarcinoma","Unknown","Yes","1",37,17,NA
+"ACT",60,0,"IB","Adenocarcinoma","Unknown","Yes","0",90,NA,NA
+"OBS",43,0,"II","Adenocarcinoma","Caucasian","Yes","1",40,11,NA
+"ACT",54,1,"IB","Adenocarcinoma","Unknown","Yes","1",71,58,NA
+"ACT",52,1,"II","Adenocarcinoma","Unknown","Yes","0",9,3,NA
+"ACT",47,0,"IB","Adenocarcinoma","Unknown","Yes","1",110,NA,NA
+"OBS",55,0,"IB","Adenocarcinoma","Unknown","Yes","0",110,NA,NA
+"ACT",66,1,"IB","Adenocarcinoma","Unknown","No","0",6,3,NA
+"ACT",70,1,"II","Adenocarcinoma","Unknown","Yes","0",95,77,NA
+"ACT",68,1,"IB","Adenocarcinoma","Unknown","Yes","1",38,35,NA
+"OBS",61,1,"IB","Adenocarcinoma","Unknown","Yes","0",9,5,NA
+"OBS",60,0,"IB","Adenocarcinoma","Unknown","Yes","0",87,NA,NA
+"OBS",35,0,"IB","Adenocarcinoma","Unknown","Yes","1",88,NA,NA
+"OBS",53,0,"II","Adenocarcinoma","Unknown","Yes","0",74,NA,NA
+"ACT",54,1,"II","Adenocarcinoma","Unknown","Yes","1",8,6,NA
+"ACT",73,0,"IB","Adenocarcinoma","Caucasian","Yes","0",59,44,NA
+"ACT",38,0,"IB","Adenocarcinoma","Unknown","Yes","0",55,NA,NA
+"OBS",58,0,"IB","Adenocarcinoma","Caucasian","Yes","1",36,NA,NA
+"ACT",65,1,"IB","Adenocarcinoma","Unknown","Yes","1",15,7,NA
+"ACT",66,0,"IB","Adenocarcinoma","Unknown","No","0",85,NA,NA
+"OBS",76,1,"II","Adenocarcinoma","Native Hawaiian or Other Pacific Islander","Yes","1",11,4,NA
+"ACT",53,1,"IB","Adenocarcinoma","Unknown","Yes","1",79,13,NA
+"OBS",60,0,"IB","Adenocarcinoma","Unknown","Yes","1",105,NA,NA
+"ACT",40,0,"IB","Adenocarcinoma","Unknown","Yes","0",97,NA,NA
+"OBS",67,1,"II","Adenocarcinoma","Unknown","Yes","1",4,4,NA
+"ACT",62,1,"IB","Adenocarcinoma","Unknown","Yes","1",36,16,NA
+"OBS",61,1,"II","Adenocarcinoma","Caucasian","No","1",44,25,NA
+"OBS",63,1,"II","Adenocarcinoma","Unknown","Yes","1",74,NA,NA
+"ACT",62,1,"II","Adenocarcinoma","Unknown","Yes","1",13,4,NA
+"ACT",51,0,"IB","Adenocarcinoma","Unknown","Yes","0",90,NA,NA
+"ACT",53,0,"IB","Adenocarcinoma","Unknown","Yes","0",85,NA,NA
+"ACT",56,1,"II","Adenocarcinoma","Unknown","Yes","0",71,69,NA
+"ACT",61,1,"II","Adenocarcinoma","Unknown","Yes","1",64,29,NA
+"ACT",52,1,"IB","Adenocarcinoma","Unknown","Yes","0",65,NA,NA
+"ACT",60,0,"IB","Adenocarcinoma","Caucasian","Yes","1",68,NA,NA
+"ACT",57,0,"II","Adenocarcinoma","Caucasian","Yes","1",64,NA,NA
+"OBS",46,0,"IB","Adenocarcinoma","Caucasian","Unknown","0",63,NA,NA
+"OBS",53,0,"II","Adenocarcinoma","Unknown","Yes","1",95,NA,NA
+"OBS",68,0,"II","Adenocarcinoma","Unknown","Yes","1",74,NA,NA
+"OBS",72,1,"II","Adenocarcinoma","Unknown","Yes","0",57,56,NA
+"OBS",68,1,"IA","Adenocarcinoma","Unknown","Yes","0",56,17,NA
+"OBS",65,0,"II","Adenocarcinoma","Unknown","Yes","1",48,NA,NA
+"OBS",68,0,"IB","Adenocarcinoma","Unknown","No","0",49,44,NA
+"OBS",68,0,"IA","Adenocarcinoma","Unknown","Yes","1",28,NA,NA
+"ACT",56,0,"IA","Adenocarcinoma","Unknown","Unknown","0",40,12,NA
+"OBS",56,0,"IB","Adenocarcinoma","Unknown","Yes","1",37,NA,NA
+"OBS",51,0,"IA","Adenocarcinoma","Unknown","Unknown","0",40,NA,NA
+"OBS",72,1,"IB","Adenocarcinoma","Unknown","No","1",7,5,NA
+"OBS",57,0,"IA","Adenocarcinoma","Unknown","Yes","0",53,NA,NA
+"OBS",64,0,"IB","Adenocarcinoma","Unknown","Yes","1",23,NA,NA
+"OBS",40,0,"IB","Adenocarcinoma","Unknown","Yes","0",62,NA,NA
+"OBS",75,1,"II","Adenocarcinoma","Unknown","No","0",7,5,NA
+"OBS",60,0,"IB","Adenocarcinoma","Unknown","Yes","1",26,NA,NA
+"OBS",58,0,"IB","Adenocarcinoma","Unknown","Yes","0",40,NA,NA
+"OBS",64,0,"IB","Adenocarcinoma","Unknown","Yes","1",30,10,NA
+"OBS",62,0,"IB","Adenocarcinoma","Unknown","Yes","1",40,NA,NA
+"OBS",75,0,"IA","Adenocarcinoma","Unknown","No","1",84,75,NA
+"OBS",76,1,"IB","Adenocarcinoma","Unknown","Yes","1",18,NA,NA
+"OBS",59,1,"II","Adenocarcinoma","Unknown","Yes","0",25,12,NA
+"OBS",54,0,"IA","Adenocarcinoma","Unknown","Yes","1",80,NA,NA
+"OBS",74,1,"II","Adenocarcinoma","Unknown","Yes","1",12,7,NA
+"OBS",70,0,"IB","Adenocarcinoma","Unknown","No","0",32,NA,NA
+"OBS",68,0,"IB","Adenocarcinoma","Unknown","Yes","0",105,84,NA
+"OBS",69,0,"II","Adenocarcinoma","Unknown","Yes","1",81,NA,NA
+"OBS",75,0,"IB","Adenocarcinoma","Unknown","Yes","1",75,NA,NA
+"OBS",64,0,"IB","Adenocarcinoma","Unknown","Yes","1",97,NA,NA
+"OBS",79,1,"II","Adenocarcinoma","Unknown","No","1",18,17,NA
+"OBS",69,1,"IB","Adenocarcinoma","Unknown","Yes","1",32,12,NA
+"OBS",77,1,"II","Adenocarcinoma","Unknown","Yes","1",10,5,NA
+"OBS",66,1,"IB","Adenocarcinoma","African American","Yes","0",44.94,2.79,NA
+"OBS",79,1,"IB","Adenocarcinoma","Caucasian","Yes","1",34.76,13.54,NA
+"OBS",72,1,"IB","Adenocarcinoma","Caucasian","Yes","0",19.84,17.35,NA
+"ACT",67,1,"III","Adenocarcinoma","Caucasian","Yes","1",8.61,0.46,NA
+"OBS",79,1,"III","Adenocarcinoma","Caucasian","Yes","0",0.53,NA,NA
+"OBS",74,1,"III","Adenocarcinoma","Caucasian","Yes","0",37.55,27.14,NA
+"OBS",40,0,"IB","Adenocarcinoma","Caucasian","Yes","1",123.3,NA,NA
+"OBS",79,1,"II","Adenocarcinoma","Caucasian","Yes","1",56.8,NA,NA
+"OBS",75,1,"II","Adenocarcinoma","Caucasian","Yes","0",30.12,NA,NA
+"OBS",77,1,"IA","Adenocarcinoma","Caucasian","No","0",105.99,NA,NA
+"OBS",66,1,"III","Adenocarcinoma","Caucasian","Yes","0",44.42,35.19,NA
+"ACT",49,1,"IB","Adenocarcinoma","Caucasian","Yes","1",20.86,19.06,NA
+"ACT",62,1,"II","Adenocarcinoma","Caucasian","Yes","1",27.63,26.71,NA
+"OBS",66,1,"IB","Adenocarcinoma","Caucasian","Yes","1",74.18,NA,NA
+"OBS",87,1,"IA","Adenocarcinoma","Caucasian","No","0",96,NA,NA
+"OBS",62,1,"II","Adenocarcinoma","Caucasian","Yes","0",41.33,9.72,NA
+"OBS",82,1,"II","Adenocarcinoma","Caucasian","Yes","1",5.65,NA,NA
+"OBS",77,1,"IB","Adenocarcinoma","Caucasian","Yes","1",0.43,NA,NA
+"ACT",61,1,"IB","Adenocarcinoma","Caucasian","Yes","0",16.56,NA,NA
+"OBS",81,1,"IA","Adenocarcinoma","Caucasian","Yes","1",61.21,NA,NA
+"OBS",72,0,"II","Adenocarcinoma","Caucasian","Yes","0",104.47,NA,NA
+"OBS",67,1,"IB","Adenocarcinoma","Caucasian","Yes","0",70.6,70.27,NA
+"OBS",74,1,"III","Adenocarcinoma","Caucasian","Yes","0",3.52,NA,NA
+"OBS",64,1,"IB","Adenocarcinoma","Caucasian","Yes","0",17.54,2.53,NA
+"OBS",65,1,"IB","Adenocarcinoma","Caucasian","Yes","0",27.56,25.43,NA
+"OBS",76,1,"II","Adenocarcinoma","Caucasian","Yes","1",16.39,8.44,NA
+"OBS",66,0,"IB","Adenocarcinoma","Caucasian","No","0",77.7,NA,NA
+"OBS",70,0,"IA","Adenocarcinoma","African American","Yes","1",94.16,25.17,NA
+"OBS",66,0,"IB","Adenocarcinoma","Caucasian","Yes","0",73.4,NA,NA
+"ACT",70,1,"IB","Adenocarcinoma","Caucasian","Yes","1",45.24,17.77,NA
+"OBS",63,1,"IB","Adenocarcinoma","Caucasian","Yes","1",0.03,NA,NA
+"OBS",68,1,"IB","Adenocarcinoma","Caucasian","No","0",75.73,55.62,NA
+"OBS",76,1,"IB","Adenocarcinoma","Caucasian","Yes","1",39.06,21.39,NA
+"ACT",49,1,"III","Adenocarcinoma","Caucasian","Yes","1",77.6,39.69,NA
+"ACT",61,1,"III","Adenocarcinoma","Caucasian","Yes","1",2.27,NA,NA
+"OBS",60,1,"II","Adenocarcinoma","Caucasian","Yes","1",42.18,11.04,NA
+"OBS",73,1,"IA","Adenocarcinoma","Caucasian","Yes","0",85.65,NA,NA
+"ACT",47,0,"II","Adenocarcinoma","Caucasian","Yes","1",92.52,88.77,NA
+"OBS",64,1,"IB","Adenocarcinoma","Caucasian","Yes","1",39.36,13.63,NA
+"OBS",66,0,"IA","Adenocarcinoma","Caucasian","Yes","0",82.5,NA,NA
+"ACT",48,0,"II","Adenocarcinoma","Caucasian","Yes","1",31.7,22.21,NA
+"OBS",79,1,"III","Adenocarcinoma","Caucasian","Yes","1",42.02,NA,NA
+"OBS",68,1,"III","Adenocarcinoma","Caucasian","Yes","0",5.78,4.17,NA
+"ACT",68,1,"III","Adenocarcinoma","Caucasian","Yes","0",7.69,3.22,NA
+"OBS",82,1,"IB","Adenocarcinoma","Caucasian","Yes","0",47.9,NA,NA
+"OBS",70,0,"IB","Adenocarcinoma","Caucasian","Yes","1",58.84,NA,NA
+"OBS",75,0,"IB","Adenocarcinoma","Caucasian","Yes","1",81.54,NA,NA
+"OBS",63,1,"IB","Adenocarcinoma","Caucasian","Yes","0",24.51,22.18,NA
+"OBS",81,1,"IB","Adenocarcinoma","Caucasian","Yes","0",7.03,NA,NA
+"OBS",75,1,"II","Adenocarcinoma","Caucasian","Yes","0",9.63,7.92,NA
+"OBS",60,1,"IB","Adenocarcinoma","Caucasian","No","0",40.21,NA,NA
+"OBS",60,0,"IB","Adenocarcinoma","Caucasian","Yes","0",66.69,NA,NA
+"OBS",71,1,"IB","Adenocarcinoma","Caucasian","Yes","0",40.97,NA,NA
+"OBS",73,0,"IB","Adenocarcinoma","Caucasian","Yes","1",76.12,NA,NA
+"OBS",77,1,"IB","Adenocarcinoma","Caucasian","Yes","1",72.64,37.16,NA
+"OBS",50,1,"II","Adenocarcinoma","Caucasian","Yes","1",11.99,9.26,NA
+"OBS",59,1,"II","Adenocarcinoma","Caucasian","Yes","0",6.24,4.24,NA
+"OBS",70,1,"IA","Adenocarcinoma","Caucasian","Yes","1",21.88,6.83,NA
+"OBS",58,0,"II","Adenocarcinoma","Caucasian","Yes","1",78.85,4.67,NA
+"OBS",60,0,"IB","Adenocarcinoma","Caucasian","Yes","1",72.05,NA,NA
+"OBS",72,1,"II","Adenocarcinoma","Asian","Yes","1",28.25,17.25,NA
+"OBS",62,0,"IB","Adenocarcinoma","Caucasian","No","0",53.39,53.19,NA
+"OBS",77,0,"IA","Adenocarcinoma","Caucasian","No","0",39.03,NA,NA
+"OBS",82,1,"IB","Adenocarcinoma","Caucasian","Yes","1",52.2,NA,NA
+"OBS",73,1,"IB","Adenocarcinoma","Caucasian","Yes","1",15.77,13.14,NA
+"OBS",57,1,"II","Adenocarcinoma","Caucasian","Yes","0",27.66,11.3,NA
+"ACT",73,1,"II","Adenocarcinoma","Caucasian","Yes","1",29.67,23.13,NA
+"OBS",70,1,"III","Adenocarcinoma","Caucasian","Yes","0",12.02,NA,NA
+"OBS",53,0,"IB","Adenocarcinoma","Caucasian","Yes","1",150.18,NA,NA
+"OBS",75,1,"III","Adenocarcinoma","African American","Yes","1",15.47,11.24,NA
+"ACT",71,1,"II","Adenocarcinoma","Caucasian","Yes","0",24.74,20.57,NA
+"ACT",36,1,"II","Adenocarcinoma","Caucasian","Yes","1",16.49,5.62,NA
+"ACT",68,1,"III","Adenocarcinoma","Caucasian","Yes","0",8.94,2.53,NA
+"OBS",68,1,"II","Adenocarcinoma","Caucasian","Yes","0",26.38,23.49,NA
+"OBS",65,1,"III","Adenocarcinoma","Caucasian","Yes","1",18.2,16.23,NA
+"ACT",51,1,"III","Adenocarcinoma","Caucasian","No","0",79.54,69.32,NA
+"OBS",62,1,"IA","Adenocarcinoma","Unknown","Unknown","1",30.7,NA,NA
+"OBS",72,1,"II","Adenocarcinoma","Unknown","Unknown","1",80.9,NA,NA
+"OBS",69,1,"III","Adenocarcinoma","Unknown","Unknown","1",11.7,NA,NA
+"OBS",68,1,"III","Adenocarcinoma","Unknown","Unknown","1",33.2,NA,NA
+"OBS",57,1,"II","Adenocarcinoma","Unknown","Unknown","1",42.5,NA,NA
+"OBS",69,1,"IB","Adenocarcinoma","Unknown","Unknown","1",122.4,NA,NA
+"OBS",58,1,"IA","Adenocarcinoma","Unknown","Unknown","1",30.2,NA,NA
+"OBS",72,1,"II","Adenocarcinoma","Unknown","Unknown","1",78.5,NA,NA
+"OBS",47,1,"IB","Adenocarcinoma","Unknown","Unknown","1",73.2,NA,NA
+"OBS",64,1,"III","Adenocarcinoma","Unknown","Unknown","1",65.2,NA,NA
+"OBS",59,0,"II","Adenocarcinoma","Unknown","Unknown","1",145.8,NA,NA
+"OBS",69,1,"IA","Adenocarcinoma","Unknown","Unknown","1",73.7,NA,NA
+"OBS",77,1,"II","Adenocarcinoma","Unknown","Unknown","1",3.3,NA,NA
+"OBS",77,1,"IA","Adenocarcinoma","Unknown","Unknown","1",19.5,NA,NA
+"OBS",70,1,"II","Adenocarcinoma","Unknown","Unknown","1",8.4,NA,NA
+"OBS",57,1,"III","Adenocarcinoma","Unknown","Unknown","1",26.9,NA,NA
+"OBS",67,0,"IB","Adenocarcinoma","Unknown","Unknown","1",129.8,NA,NA
+"OBS",66,1,"III","Adenocarcinoma","Unknown","Unknown","1",19.6,NA,NA
+"OBS",78,1,"IB","Adenocarcinoma","Unknown","Unknown","1",105.4,NA,NA
+"OBS",46,1,"IB","Adenocarcinoma","Unknown","Unknown","1",157.5,NA,NA
+"OBS",62,1,"IA","Adenocarcinoma","Unknown","Unknown","1",120.5,NA,NA
+"OBS",66,1,"IB","Adenocarcinoma","Unknown","Unknown","1",47.8,NA,NA
+"OBS",65,1,"II","Adenocarcinoma","Unknown","Unknown","1",130,NA,NA
+"OBS",46,0,"II","Adenocarcinoma","Unknown","Unknown","0",52.3,NA,NA
+"OBS",63,0,"II","Adenocarcinoma","Unknown","Unknown","0",69.4,NA,NA
+"OBS",60,1,"II","Adenocarcinoma","Unknown","Unknown","1",25.95,NA,NA
+"OBS",77,0,"IB","Adenocarcinoma","Unknown","Unknown","1",121.8,NA,NA
+"OBS",44,1,"III","Adenocarcinoma","Unknown","Unknown","1",32.6,NA,NA
+"OBS",49,1,"III","Adenocarcinoma","Unknown","Unknown","1",40.2,NA,NA
+"OBS",70,1,"III","Adenocarcinoma","Unknown","Unknown","1",14.5,NA,NA
+"OBS",68,1,"IA","Adenocarcinoma","Unknown","Unknown","1",9.2,NA,NA
+"OBS",66,1,"IB","Adenocarcinoma","Unknown","Unknown","1",19,NA,NA
+"OBS",74,0,"III","Adenocarcinoma","Unknown","Unknown","1",121.2,NA,NA
+"OBS",62,1,"III","Adenocarcinoma","Unknown","Unknown","1",9,NA,NA
+"OBS",81,0,"IB","Adenocarcinoma","Unknown","Unknown","1",97.6,NA,NA
+"OBS",44.9,0,"II","Adenocarcinoma","Unknown","Unknown","0",102.24,NA,NA
+"OBS",53.4,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",108.36,NA,NA
+"ACT",64.1,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",15.84,NA,NA
+"ACT",57.1,0,"II","Large Cell Carcinoma","Unknown","Unknown","1",103.92,NA,NA
+"ACT",65.7,0,"IA","Adenocarcinoma","Unknown","Unknown","0",98.76,NA,NA
+"OBS",69.2,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",24.72,NA,NA
+"OBS",64.8,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",8.28,NA,NA
+"ACT",67.2,1,"IA","Adenocarcinoma","Unknown","Unknown","0",0.36,NA,NA
+"ACT",65.5,0,"II","Adenocarcinoma","Unknown","Unknown","1",103.2,NA,NA
+"OBS",70.6,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",19.92,NA,NA
+"ACT",48.3,0,"IA","Large Cell Carcinoma","Unknown","Unknown","1",104.52,NA,NA
+"OBS",60.8,0,"IA","Large Cell Carcinoma","Unknown","Unknown","1",102.6,NA,NA
+"ACT",73.3,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",111.48,NA,NA
+"OBS",73,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",74.04,NA,NA
+"ACT",66.6,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",101.76,NA,NA
+"OBS",63.5,1,"IA","Adenocarcinoma","Unknown","Unknown","0",19.08,NA,NA
+"OBS",72.5,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",36,NA,NA
+"ACT",48.2,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",90.36,NA,NA
+"ACT",59.4,1,"IA","Adenocarcinoma","Unknown","Unknown","1",73.08,NA,NA
+"OBS",63.4,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",96.24,NA,NA
+"ACT",63.2,1,"II","Adenocarcinoma","Unknown","Unknown","1",2.28,NA,NA
+"OBS",50.2,0,"IA","Adenocarcinoma","Unknown","Unknown","0",83.16,NA,NA
+"ACT",68.8,0,"II","Adenocarcinoma","Unknown","Unknown","1",92.52,NA,NA
+"ACT",53,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",86.88,NA,NA
+"ACT",65.4,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",13.08,NA,NA
+"ACT",81.3,1,"IA","Large Cell Carcinoma","Unknown","Unknown","1",14.4,NA,NA
+"ACT",75.6,1,"IA","Adenocarcinoma","Unknown","Unknown","0",10.8,NA,NA
+"OBS",62.1,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",95.28,NA,NA
+"ACT",62.7,1,"II","Adenocarcinoma","Unknown","Unknown","1",44.88,NA,NA
+"ACT",72.9,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",86.52,NA,NA
+"ACT",61.3,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",89.16,NA,NA
+"ACT",58.2,0,"II","Adenocarcinoma","Unknown","Unknown","1",86.4,NA,NA
+"OBS",61.6,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",80.76,NA,NA
+"OBS",56.4,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",27.48,NA,NA
+"ACT",48.8,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",80.52,NA,NA
+"OBS",63.3,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",81.12,NA,NA
+"ACT",66.2,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",19.68,NA,NA
+"OBS",42.7,1,"II","Large Cell Carcinoma","Unknown","Unknown","1",8.88,NA,NA
+"OBS",38.2,0,"IA","Adenocarcinoma","Unknown","Unknown","0",70.44,NA,NA
+"OBS",69.6,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",95.28,NA,NA
+"ACT",75.8,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",94.56,NA,NA
+"ACT",65.7,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",22.56,NA,NA
+"OBS",66.5,1,"II","Large Cell Carcinoma","Unknown","Unknown","1",14.16,NA,NA
+"ACT",63.7,0,"IA","Adenocarcinoma","Unknown","Unknown","1",65.04,NA,NA
+"OBS",62.8,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",77.28,NA,NA
+"ACT",56.5,0,"II","Adenocarcinoma","Unknown","Unknown","0",60.36,NA,NA
+"ACT",73.1,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",61.44,NA,NA
+"OBS",74.4,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",73.08,NA,NA
+"ACT",64.1,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",74.88,NA,NA
+"OBS",63.5,1,"II","Adenocarcinoma","Unknown","Unknown","1",27.36,NA,NA
+"OBS",54.8,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",85.44,NA,NA
+"OBS",69,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",38.04,NA,NA
+"OBS",64.3,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",70.56,NA,NA
+"ACT",70.3,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",63.72,NA,NA
+"ACT",59.5,1,"II","Large Cell Carcinoma","Unknown","Unknown","0",5.16,NA,NA
+"ACT",60.5,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",84.48,NA,NA
+"OBS",67.9,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",9.36,NA,NA
+"OBS",58.1,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",82.32,NA,NA
+"ACT",59.1,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",82.44,NA,NA
+"ACT",50.5,1,"IA","Large Cell Carcinoma","Unknown","Unknown","1",7.56,NA,NA
+"ACT",45.4,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",78.48,NA,NA
+"OBS",58.5,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",23.52,NA,NA
+"ACT",51.2,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",49.08,NA,NA
+"OBS",45.8,1,"IA","Adenocarcinoma","Unknown","Unknown","0",22.32,NA,NA
+"OBS",60.4,1,"IA","Large Cell Carcinoma","Unknown","Unknown","0",26.16,NA,NA
+"ACT",69.4,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","0",56.88,NA,NA
+"OBS",65.8,1,"II","Adenocarcinoma","Unknown","Unknown","1",33.84,NA,NA
+"ACT",61.6,0,"IA","Large Cell Carcinoma","Unknown","Unknown","1",108.12,NA,NA
+"OBS",55.6,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",29.16,NA,NA
+"OBS",59,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",60,NA,NA
+"ACT",62.1,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",110.64,NA,NA
+"OBS",69.2,1,"II","Adenocarcinoma","Unknown","Unknown","1",18,NA,NA
+"OBS",67.4,0,"IA","Adenocarcinoma","Unknown","Unknown","1",53.52,NA,NA
+"ACT",69.7,0,"II","Adenocarcinoma","Unknown","Unknown","0",47.4,NA,NA
+"ACT",66.3,0,"IA","Adenocarcinoma","Unknown","Unknown","0",42.12,NA,NA
+"ACT",72.4,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",68.04,NA,NA
+"OBS",65.3,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",34.32,NA,NA
+"ACT",70.4,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",93.24,NA,NA
+"ACT",57.4,0,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",98.16,NA,NA
+"ACT",58.4,0,"II","Adenocarcinoma","Unknown","Unknown","0",58.68,NA,NA
+"OBS",55.8,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",13.2,NA,NA
+"OBS",66.5,1,"IA","Squamous Cell Carcinoma","Unknown","Unknown","1",13.68,NA,NA
+"ACT",75.3,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",20.4,NA,NA
+"ACT",66.9,1,"II","Squamous Cell Carcinoma","Unknown","Unknown","1",79.92,NA,NA
+"ACT",62,1,"II","Adenocarcinoma","Unknown","Unknown","0",57.12,NA,NA
+"OBS",57,0,"II","Squamous Cell Carcinoma","Unknown","Unknown","0",68.16,NA,NA
+"ACT",41,0,"IA","Adenocarcinoma","Unknown","Unknown","0",80.88,NA,NA
+"OBS",63.2,0,"IA","Adenocarcinoma","Unknown","Unknown","1",64.56,NA,NA
+"OBS",57.4,1,"II","Adenocarcinoma","Unknown","Unknown","0",24.48,NA,NA
+"ACT",56.8,1,"IA","Adenocarcinoma","Unknown","Unknown","1",72.36,NA,NA
+"OBS",55.4,0,"IB","Adenocarcinoma","Unknown","Unknown","0",96.72,NA,NA
+"OBS",40.9,0,"IB","Adenocarcinoma","Unknown","Unknown","0",96.24,NA,NA
+"ACT",47.4,0,"IB","Adenocarcinoma","Unknown","Unknown","1",109.08,NA,NA
+"ACT",53.7,1,"IB","Adenocarcinoma","Unknown","Unknown","1",77.88,NA,NA
+"OBS",59.4,0,"IB","Adenocarcinoma","Unknown","Unknown","1",105.72,NA,NA
+"ACT",66.5,1,"IB","Adenocarcinoma","Unknown","Unknown","0",4.68,NA,NA
+"OBS",60.5,0,"IB","Adenocarcinoma","Unknown","Unknown","1",104.52,NA,NA
+"OBS",74.9,1,"IB","Adenocarcinoma","Unknown","Unknown","1",23.16,NA,NA
+"ACT",70.4,1,"II","Adenocarcinoma","Unknown","Unknown","0",93.84,NA,NA
+"ACT",71,1,"II","Adenocarcinoma","Unknown","Unknown","1",11.64,NA,NA
+"OBS",69,1,"IB","Adenocarcinoma","Unknown","Unknown","1",37.2,NA,NA
+"ACT",64.8,1,"IB","Adenocarcinoma","Unknown","Unknown","1",14.16,NA,NA
+"OBS",60.4,0,"IB","Adenocarcinoma","Unknown","Unknown","0",89.16,NA,NA
+"OBS",59.2,1,"IB","Adenocarcinoma","Unknown","Unknown","1",36.36,NA,NA
+"OBS",60.6,0,"IB","Adenocarcinoma","Unknown","Unknown","0",85.92,NA,NA
+"ACT",62,1,"II","Adenocarcinoma","Unknown","Unknown","1",12,NA,NA
+"ACT",54.7,1,"IB","Adenocarcinoma","Unknown","Unknown","1",69.96,NA,NA
+"OBS",53.4,0,"II","Adenocarcinoma","Unknown","Unknown","0",72.72,NA,NA
+"ACT",65.9,0,"IB","Adenocarcinoma","Unknown","Unknown","0",83.04,NA,NA
+"OBS",35.4,0,"IB","Adenocarcinoma","Unknown","Unknown","1",73.44,NA,NA
+"OBS",66.4,1,"II","Adenocarcinoma","Unknown","Unknown","1",7.32,NA,NA
+"ACT",52.5,1,"II","Adenocarcinoma","Unknown","Unknown","0",8.4,NA,NA
+"ACT",57.5,0,"II","Adenocarcinoma","Unknown","Unknown","1",56.52,NA,NA
+"ACT",73.7,0,"IB","Adenocarcinoma","Unknown","Unknown","0",57.48,NA,NA
+"ACT",60.3,0,"IB","Adenocarcinoma","Unknown","Unknown","0",81.84,NA,NA
+"ACT",54,1,"II","Adenocarcinoma","Unknown","Unknown","1",6.96,NA,NA
+"ACT",50.8,0,"IB","Adenocarcinoma","Unknown","Unknown","0",75.96,NA,NA
+"ACT",53.3,0,"IB","Adenocarcinoma","Unknown","Unknown","0",83.4,NA,NA
+"OBS",66.9,1,"II","Adenocarcinoma","Unknown","Unknown","1",3.24,NA,NA
+"ACT",56.3,1,"II","Adenocarcinoma","Unknown","Unknown","0",69.72,NA,NA
+"ACT",62.1,1,"IB","Adenocarcinoma","Unknown","Unknown","1",34.44,NA,NA
+"ACT",52.3,1,"IB","Adenocarcinoma","Unknown","Unknown","0",63.96,NA,NA
+"ACT",60.9,1,"II","Adenocarcinoma","Unknown","Unknown","1",63.24,NA,NA
+"OBS",61.4,1,"IB","Adenocarcinoma","Unknown","Unknown","0",7.8,NA,NA
+"ACT",40.1,0,"IB","Adenocarcinoma","Unknown","Unknown","0",82.8,NA,NA
+"ACT",59.7,0,"IB","Adenocarcinoma","Unknown","Unknown","1",61.32,NA,NA
+"OBS",76.7,1,"II","Adenocarcinoma","Unknown","Unknown","1",9.24,NA,NA
+"OBS",46.2,0,"IB","Adenocarcinoma","Unknown","Unknown","0",61.68,NA,NA
+"OBS",61,1,"II","Adenocarcinoma","Unknown","Unknown","1",43.2,NA,NA
+"OBS",38.6,0,"IB","Adenocarcinoma","Unknown","Unknown","0",48.36,NA,NA
+"OBS",43.6,0,"II","Adenocarcinoma","Unknown","Unknown","1",38.88,NA,NA
+"OBS",58.3,0,"IB","Adenocarcinoma","Unknown","Unknown","1",34.32,NA,NA
